@@ -1,0 +1,98 @@
+################################################################################
+# https://github.com/tajmone/Archivio-AT-Tristano                              #
+################################################################################
+
+# Imposta Git per l'autoriconoscimento dei file di testo, in caso l'untente
+# non abbia settato `core.autocrlf`:
+* text=auto
+
+# ==============================================================================
+#                               File Testo/Binari                               
+# ==============================================================================
+# Dichiara esplcitamente le tipologie dei file e istruisci Git su come gestire
+# le normalizzazione delle EOL:
+
+## ==============
+## DOCUMENTAZIONE
+## ==============
+*.doc      binary
+*.md       text
+*.pdf      binary
+LICENSE    text
+UNLICENSE  text
+
+## ======================
+## FILE DI CONFIGURAZIONE
+## ======================
+.gitattributes   text
+.gitconfig       text
+.gitignore       text
+
+## ==========
+## STORYFILES
+## ==========
+*.z8     binary
+
+## =================
+## SORGENTI INFORM 7
+## =================
+*.blurb       text
+*.i7x         text eol=lf
+*.iFiction    text
+*.ni          text eol=lf
+*.plist       text
+*.skein       text
+## ========
+## IMMAGINI
+## ========
+*.bmp   binary
+*.eps   binary
+*.gif   binary
+*.ico   binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.psd   binary
+*.svg   binary
+*.svgz  binary
+*.tif   binary
+*.tiff  binary
+
+## =================
+## ARCHIVI COMPRESSI
+## =================
+*.7z    binary
+*.gz    binary
+*.jar   binary
+*.rar   binary
+*.tar   binary
+*.zip   binary
+
+# ==============================================================================
+#                                GitHub Linguist                                
+# ==============================================================================
+#  -- https://github.com/github/linguist
+#
+# Definizioni manuali per alcune estensioni, di modo che la libreria Linguist di
+# GitHub possa:
+# 1) Raccogliere statistiche corrette sui file di progetto,
+# 2) Colorare la sintassi dei sorgenti in maniera corretta nella WebUI.
+
+# NOTA: Inform 7 è già supportato da Linguist:
+#       -- estensioni: *.ni|*.i7x
+#       -- alias: "Inform 7|inform7|i7"
+
+## ====================
+## RETTIFICA ESTENSIONI
+## ====================
+*.skein  linguist-language=XML
+
+## =======================
+## VENDORED/GENERATED CODE
+## =======================
+
+**/uuid.txt   linguist-generated=true
+*.blurb       linguist-generated=true
+*.iFiction    linguist-generated=true
+*.plist       linguist-generated=true
+*.skein       linguist-generated=true

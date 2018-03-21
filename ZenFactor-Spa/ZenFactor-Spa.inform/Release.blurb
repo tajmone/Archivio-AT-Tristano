@@ -1,0 +1,25 @@
+! Blurb file created by Inform build 5Z71
+
+! Identification
+
+project folder "D:\ZenFactor.org\ZenFactor.org\Avventure-Testuali - Work\ZenFactor IF\ZenFactor Spa 24.inform"
+
+! Blorb instructions
+
+storyfile leafname "ZenFactor Spa.zblorb"
+storyfile "D:\ZenFactor.org\ZenFactor.org\Avventure-Testuali - Work\ZenFactor IF\ZenFactor Spa 24.inform\Build\output.z8" include
+ifiction "D:\ZenFactor.org\ZenFactor.org\Avventure-Testuali - Work\ZenFactor IF\ZenFactor Spa 24.inform\Metadata.iFiction" include
+cover "C:\Programmi\Inform 7\Inform7\Extensions\Reserved\DefaultCover.jpg"
+picture 1 "C:\Programmi\Inform 7\Inform7\Extensions\Reserved\DefaultCover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "FD7F73E8-DC96-46AF-AF14-C5585B6ECD08"
+placeholder [RELEASE] = "2"
+placeholder [YEAR] = "2010"
+placeholder [TITLE] = "ZenFactor Spa"
+placeholder [AUTHOR] = "Tristano Ajmone"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
