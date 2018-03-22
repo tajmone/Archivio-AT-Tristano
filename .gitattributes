@@ -16,6 +16,8 @@
 ## DOCUMENTAZIONE
 ## ==============
 *.doc      binary
+*.htm      text
+*.html     text
 *.md       text
 *.pdf      binary
 LICENSE    text
@@ -31,6 +33,7 @@ UNLICENSE  text
 ## ==========
 ## STORYFILES
 ## ==========
+*.z5     binary
 *.z8     binary
 
 ## =================
@@ -42,6 +45,15 @@ UNLICENSE  text
 *.ni          text eol=lf
 *.plist       text
 *.skein       text
+
+## ========================
+## SORGENTI LGC2Z5/INFORM 6
+## ========================
+*.au3         text eol=crlf
+*.inf         text
+*.lgc         text eol=crlf
+lgc2z5_*.h    text eol=lf
+
 ## ========
 ## IMMAGINI
 ## ========
@@ -78,21 +90,39 @@ UNLICENSE  text
 # 1) Raccogliere statistiche corrette sui file di progetto,
 # 2) Colorare la sintassi dei sorgenti in maniera corretta nella WebUI.
 
-# NOTA: Inform 7 è già supportato da Linguist:
-#       -- estensioni: *.ni|*.i7x
-#       -- alias: "Inform 7|inform7|i7"
+# NOTE:
+# -- Inform 7 è già supportato da Linguist:
+#    -- estensioni: *.ni|*.i7x
+#    -- alias: "Inform 7|inform7|i7"
+# -- Questi sistemi IF ed estensioni non sono supportati:
+#    -- Inform 6 (*.inf|*.h)
+#    -- LGC (*.lgc)
+#    -- ADRIFT (*.taf)
 
 ## ====================
 ## RETTIFICA ESTENSIONI
 ## ====================
-*.skein  linguist-language=XML
+*.skein   linguist-language=XML
 
-## =======================
-## VENDORED/GENERATED CODE
-## =======================
+# Evita che sorgenti Inform 6 vengono scambiati per C:
+lgc2z5_*.h    linguist-language=nil
+lgc2z5_*.h    linguist-detectable=false
 
+## ===================
+## AUTO-GENERATED CODE
+## ===================
+## Escludi dalle statistiche del progetto i file generati automaticamente dai
+## vari strumenti di sviluppo:
 **/uuid.txt   linguist-generated=true
 *.blurb       linguist-generated=true
 *.iFiction    linguist-generated=true
 *.plist       linguist-generated=true
 *.skein       linguist-generated=true
+
+## =============
+## VENDORED CODE
+## =============
+## Escludi dalle statistiche del progetto componenti di terze parti:
+**/Italian.i7x    linguist-vendored
+*.lgc             linguist-vendored
+LGC2Z5/**/*.inf   linguist-vendored

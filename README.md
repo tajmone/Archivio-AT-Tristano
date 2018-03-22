@@ -10,6 +10,7 @@ Un tentativo di recuperare e preservare i miei vari contributi all'IF italiana, 
 
 - [Introduzione](#introduzione)
 - [Contenuti del Progetto](#contenuti-del-progetto)
+    - [LGC2Z5](#lgc2z5)
     - [ZenFactor Spa](#zenfactor-spa)
 - [Licenze d'Uso](#licenze-duso)
 
@@ -36,6 +37,12 @@ L'idea generale è quella di tentare di preservare il patrimonio della comunità
 # Contenuti del Progetto
 
 Ulteriori contenuti verranno aggiunti man mano che li recupero dai vecchi hard disk e ne ricostruisco il contesto storico.
+
+## LGC2Z5
+
+- [`/LGC2Z5/`](./LGC2Z5)
+
+Applicativo Windows per convertire e compilare file progetto di __Libro Game Creator 2__ in storyfile Z-Machine. Creato da Tristano Ajmone (2010).
 
 ## ZenFactor Spa
 

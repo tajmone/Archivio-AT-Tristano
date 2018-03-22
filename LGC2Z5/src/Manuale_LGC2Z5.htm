@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//IT"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>LGC2Z5: Manuale d&rsquo;Uso</title>
+<style type="text/css">
+<!--
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+strong {
+	color: #FF0000;
+}
+i {
+	background-color: #F1FF00;
+	font-weight: normal;
+}
+h1 {
+	background-color:#eee;
+	font-size: 22px;
+	font-weight: bold;
+	text-align:center;
+	padding: 0 0 5px 0;
+	padding: 3px 5px 5px 5px;
+	border-bottom: 3px solid #0066FF;
+	border-top: 3px solid #0066FF;
+	margin-top: 50px;
+}
+h2 {
+	background-color:#444;
+	color:#FFFFFF;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	padding: 0 0 5px 0;
+	padding: 3px 5px 5px 5px;
+	border-bottom: 3px solid #FF6633;
+}
+h3 {
+	background-color:#eee;
+	padding: 3px 5px 5px 5px;
+}
+li {
+	margin-bottom: 12px;
+}
+-->
+</style>
+</head>
+<body>
+<h1 style="border: 0; font-size: 52px; background-color: #FFFFFF ">LGC2Z5</h1>
+<h1>* * * Manuale d&rsquo;Uso * * * </h1>
+<p style="text-align:center ">&mdash; Ed. 10 Ottobre 2010&mdash; </p>
+<ul>
+  <li><a href="#cos_e_lgc2z5">Cos&rsquo;è LGC2Z5?</a></li>
+  <li><a href="#LGC">LGC &mdash; Libro Game Creator</a></li>
+  <li><a href="#Z_Machine">Z-Machine</a></li>
+  <li><a href="#UsareLGC2Z5">Usare LGC2Z5</a></li>
+  <li><a href="#UsareLGC2Z5">Alcune Considerazioni Sulla Conversione ...</a></li>
+  <li><a href="#File_LGC2Z5">I File di LGC2Z5</a></li>
+  <li><a href="#Utilizzare">Utilizzare I Libri-Gioco In Z-Machine</a></li>
+  <li><a href="#InterpretiWindows">Interpreti Windows</a></li>
+  <li><a href="#InterpretiMac">Interpreti Mac</a></li>
+  <li><a href="#InterpretiLinux">Interpreti Linux</a></li>
+  <li><a href="#InterpretiNintendo">Interpreti Nintendo Gameboy </a></li>
+  <li><a href="#InterpretiTelefonini">Interpreti Telefonini</a></li>
+  <li><a href="#InterpretiWeb">Interpreti Web</a></li>
+  <li><a href="#QuestoQuanto">Questo È Quanto ...</a></li>
+</ul>
+<h2><a name="cos_e_lgc2z5"></a>Cos&rsquo;&egrave; LGC2Z5?</h2>
+<p>LGC2Z5 &egrave; un&rsquo;applicazione per convertire un librogame creato con il programma LGC (Libro Game Creatore) in un file Z-Machine &mdash; ossia: un file che possa essere giocato su un computer o un telefonino tramite un interpete Z-Machine. Da qui il misterioso nome LGC2Z5, un&rsquo;abbreviazione per &#8220;L.G.C. To Z-Machine 5 (Converter)&#8221;.</p>
+<p>Quali sono i vantaggi di questa conversione? I librogame creati con il programma LGC possono essere esportati in formato documento, per la stampa cartacea, oppure in formato HTML, per poter essere giocati su un sito. LGC2Z5 &egrave; finalizzato ala giocabilit&agrave; digitale dei librigame. Rispetto ad una pagina HTML, un librogame convertito con LGC2Z5 offre i seguenti vantaggi:</p>
+<ul>
+  <li>I vari paragrafi del libro vengono presentati uno alla volta, eliminando il rischio di &laquo;sbirciatine&raquo; accidentali ai paragrafi adiacenti.</li>
+  <li>LGC offre l&rsquo;opzione  <strong>Converti Numerazione Paragrafi</strong>: scegliendo questa opzione, i numeri di paragrafo dei rimandi vengono sostituiti con i numeri progressivi delle scelte possibili &mdash; p.es: i rimandi 149, 82 e 140 diventeranno semplicemente le scelte 1, 2 3. Questo evita al giocatore la possibilit&agrave; di &laquo;mappare&raquo; il libro e lo costringe a scelte inferite semplicemente dal contenuto dei paragrafi (in alcuni casi questo potrebbe essere considerato un vantaggio).</li>
+  <li>I librigioco in formato Z-Machine possono essere giocati con una moltitudine di interpreti. Esistono interpreti per tutti i sistemi operativi, inclusi i cellulari palmari e gli iPhone, Nintendo Gameboy, nonch&eacute; interpreti per il web (cosicch&eacute; possono essere giocati online, tramite browser). Molti di questi interpreti sono gi&agrave; predisposti per la lettura con sintesi vocale, rendendo i librograme fruibili ai non-vedenti. </li>
+</ul>
+<p>LGC2Z5 &egrave; stato realizzato da Tristano Ajmone. &Egrave; un programma gratuito e pu&ograve; essere liberamente distribuito e copiato.</p>
+<p>Lo scopo primario nella realizzazione di LGC2Z5 &egrave; la creazione di uno strumento che possa aiutare a realizzare videogiochi testuali fruibili dai non vedenti. Noi &laquo;normodotati&raquo; diamo per scontato che le basi di un videogioco debbano essere la grafica, l&rsquo;animazione e l&rsquo;azione manovrata attraverso il joystick o il mouse. Questo limita drasticamente l&rsquo;accesso dei ciechi al mondo dei videogiochi.</p>
+<p>Le Avventure Testuali (di cui i libri-gioco sono stretti parenti) sono tra i pochissimi tipi di videogiochi fruibili dai ciechi. Siccome esiste appunto una lunga tradizione di videogiochi fruiti dai non-vedenti grazie ai formati delle avventure testuali, ho pensato che offrire la possibilit&agrave; di convertire un libro-gioco dal formato nativo di LGC alla Z-Machine avrebbe consentito di erigere un ponte che possa collegare il vasto mondo dei librigame al mondo delle AT, i cui formati e standard sono ormai collaudati e affermati tra i non-vedenti.</p>
+<p>Spero inoltre che questa piccola applicazione possa rafforzare ulteriormente il legame tra la comunit&agrave; virtuale dei creatori di Libri-Game e quella dei creatori di Avventure-Testuali &mdash; due generi affini e strettamente imparentati tra loro. </p>
+<h2><a name="LGC"></a>LGC &mdash; Libro Game Creator</h2>
+<p>LGC &egrave; un ottimo programma gratuito per la creazione di libri-gioco. &Egrave; stato realizzato da <strong>Matteo Poropat</strong> e funziona su Windows (&egrave; uno stand-alone: non richiede installazione). Oltre a semplificare la creazione di paragrafi numerati e navigabili, grazie al programma Graphviz (installabile separatamente) LGC &egrave; in grado di creare una mappa grafica strutturale dei vari sentieri narrativi del libro. </p>
+<p>LGC prevede la possibilit&agrave; di formattare il testo del libro-game (allineamento, stili, font, colori, ecc) &mdash; per&ograve;  LGC2Z5 ignorer&agrave; la formattazione del testo nel processo di conversione. </p>
+<p>I file creati da LGC hanno l&rsquo;estensione &quot;.lgc&quot;. LGC2Z5 interpreta e converte questo tipo di file trasformandolo in un videogioco.</p>
+<p>LGC &egrave; scaricabile al seguente link: <a href="http://lgc.altervista.org/" target="_blank">http://lgc.altervista.org/</a></p>
+<p><i>LGC2Z5 &egrave; studiato per convertire file creati con la versione 2.0.1 di LGC.</i> Non &egrave; garantita la compatibilit&agrave; con file creati con altre versioni di LGC! </p>
+<p>Ringrazio Matteo Poropat per il sostegno e le informazioni datemi nel corso di realizzazione di LGC2Z5.</p>
+<p>LGC2Z5 &egrave; inoltre indebitato con il sito/forum Librogame&rsquo;s Land per tutto il prezioso sostegno e consigli offerti nello sviluppo e nella promozione del  programma: <a href="http://www.librogame.net" target="_blank">http://www.librogame.net</a></p>
+<h2><a name="Z_Machine"></a>Z-Machine</h2>
+<p>La Z-Machine &egrave; una macchina virtuale sviluppata nel 1979 (J.Berez e M.Blank), venne usata dalla Infocom per le sue Avventure Testuali ed &egrave; tutt&rsquo;oggi utilizzata per questo tipo di videogiochi:</p>
+<p><a href="http://it.wikipedia.org/wiki/Z-machine" target="_blank">http://it.wikipedia.org/wiki/Z-machine</a></p>
+<p>LGC2Z5 sfrutta il compilatore di Inform 6 per convertire un librogame in un videogioco interattivo in formato Z-Machine versione 5 oppure 8:</p>
+<p><a href="http://www.inform-fiction.org/inform6.html" target="_blank">http://www.inform-fiction.org/inform6.html</a></p>
+<p>La conversione dal formato LGC a Inform 6 sfrutta la libreria &#8220;cyoa_it.h&#8221; realizzata da <strong>Paolo Lucchesi</strong> (2004) per semplificare la creazione di avventure del tipo CYOA (Choose Your Own Adventure) con Inform 6. Ho modificato lievemente &#8220;cyoa_it.h&#8221; al fine di adattarla alle esigenze specifiche di LGC2Z5. </p>
+<p><a href="http://www.paololucchesi.it/" target="_blank">http://www.paololucchesi.it/</a></p>
+<p>A Paolo Lucchesi vanno i miei ringraziamenti per l&rsquo;aiuto che mi ha dato nell&rsquo;affrontare i vari problemi in cui sono incappato modificando &#8220;cyoa_it.h&#8221; &mdash; purtroppo, non ho mai programmato con Inform 6 e non lo conosco.</p>
+<h2><a name="UsareLGC2Z5"></a>Usare LGC2Z5</h2>
+<p>LGC2Z5 non richiede intallazione, basta dezippane i contenuti (una cartella contenente i relativi file) e avviare il file &#8220;LGC2Z5.exe&#8221;.</p>
+<p>L&rsquo;interfaccia presenta un men&ugrave; semplice ed intuitivo consistente in due men&ugrave; e quattro pulsanti.</p>
+<h3>I Pulsanti </h3>
+<p>Il primo pulsante in alto, &#8220;File LGC sorgente&#8221; serve a selezionare il file del librogame creato con LGC che si desidera convertire. Cliccandolo, apparir&agrave; la finestra di Windows per la selezione del file. Se il file selezionato si trova all&rsquo;esterno della cartella di LGC2Z5, il file verr&agrave; copiato all&rsquo;interno della cartella di LGC2Z5.</p>
+<p>Il pulsante &#8220;Z-Machine v. 5&#8221; serve a selezionare la versione di Z-Machine da usare per la conversione. Cliccandolo si passa alternatamente dalla versione 5 alla 8 &mdash; le uniche opzioni contemplate. A meno che non si verifichi un errore di compilazione, si consiglia di lasciare l&rsquo;impostazione di default (v. 5).</p>
+<p>Il pulsante &#8220;Mantieni Numerazione Paragrafi&#8221; serve a selezionare/deselezionare le opzioni di conversione o mantenimento dei numeri di rimando di paragrafo. Scegliendo Mantieni, nei rimandi e nell&rsquo;elenco delle scelte appariranno i numeri di paragrafo originali del libro-game (es.: 14, 158, 32, ecc.). Scegliendo Converti, i numeri di rimando verranno convertiti in numeri progressivi (1, 2, 3. ecc.), precludendo al giocatore la possibilit&agrave; di mappare il libro. </p>
+<p>Il pulsante &#8220;Converti&#8221; avvia il processo di conversione. Al termine del processo, una finestra di pop-up informer&agrave; sull&rsquo;esito della conversione. Il processo di conversione creer&agrave; due file con il medesimo nome del file sorgente ma con estensioni diverse: un file &#8220;.inf&#8221; (contenente il codice sorgente Inform 6 del libro game) e un file &#8220;.z5&#8221; o &#8220;.z8&#8221; (a secondo della versione di Z-Machine scelta). </p>
+<p>Il processo di conversione canceller&agrave; eventuali file &#8220;.inf&#8221; e &#8220;.z5&#8221; o &#8220;.z8&#8221; creati nel corso di previ tentativi di conversione.</p>
+<h3>I Men&ugrave;</h3>
+<p>Vi sono 2 men&ugrave; a discesa con relativi sottomen&ugrave;: &#8220;Strumenti&#8221; e &#8220;Link&#8221;. </p>
+<p>Tramite il men&ugrave; &#8220;Strumenti&#8221; si accede alla presente guida d&rsquo;uso, si pu&ograve; contattare l&rsquo;autore, aprire la cartella di LGC2Z5, ottenere informazioni sul programma o visitarne la homepage.</p>
+<p> Tramite il men&ugrave; &#8220;Link&#8221; si pu&ograve; accedere a siti correlati a LGC2Z5 e ai lbiri-gioco. </p>
+<h2><a name="Considerazioni"></a>Alcune Considerazioni Sulla Conversione ...</h2>
+<p>Come accennato, <i>LGC2Z5 &egrave; studiato per convertire file creati con LGC versione 2.0.1</i>. Se avete dei file creati con versioni precedenti di LGC (1.x), dovrete aprirli con la nuova versione e risalvarli. Inoltre, consiglio vivamente di <strong>scorrere tutti i paragrafi, dal primo all&rsquo;ultimo</strong>, affinch&eacute; LGC possa creare i suoi &laquo;tag&raquo; interni nel file sorgente &mdash; a volte pu&ograve; non bastare aprire e risalvare il file, bisogna visualizzare ogni singolo paragrafo!</p>
+<p>Non posso predirre se le modifiche nelle edizioni future di LGC andranno a confliggere con il modo in cui LGC2Z5 scansiona e converte i file &#8220;.lgc&#8221;.</p>
+<p>Allo stato attuale <i>LGC2Z5 riconosce solo i caratteri &#8220;&lt;&gt;&#8221; come indicatori di link a paragrafo</i> (che sono i caratteri di default di LGC) . Se vi saranno future edizioni di LGC2Z5, includer&ograve; il riconoscimento di indicatori alternativi. </p>
+<p>LGC2Z5 converte anche i Titoli di Paragrafo. Nel caso di assenza di titoli, LGC2Z5 inserisce tre punti come titolo. Assegnando titoli ai vostri paragrafi sfrutterete al meglio il vostro libro-game.</p>
+<p>Anche i campi del Titolo del Libro, la versione e l&rsquo;autore vengono rilevati e convertiti da LGC2Z5.</p>
+<p>LGC2Z5 non tiene conto della formattazione del testo originale (allineamenti, stili, colori, font, ecc., verranno completamente ignorati). </p>
+<h2><a name="File_LGC2Z5"></a>I File di LGC2Z5</h2>
+<p>All&rsquo;interno dello zippato di LGC2Z5 sono contenuti i seguenti file:</p>
+<ul>
+  <li><strong> LGC2Z5.exe</strong> &mdash; l&rsquo;applicazione LGC2Z5 (che traduce i file &#8220;.lgc&#8221; in &#8220;.inf&#8221;).</li>
+  <li> <strong>inform.exe</strong> &mdash; il compilatore Inform 6 (che traduce i file &#8220;.inf&#8221; in &#8220;.z5/.z8&#8221;). Siccome viene invocato da LGC2Z5, non &egrave; necessario che voi lo utilizziate manualmente. Ma siete liberi di farlo. Per utilizzarlo, accedere tramite shell. </li>
+  <li><strong>lgc2z5_it_mant_np.h</strong> &mdash; la libreria di Inform &#8220;cyoa_it.h&#8221; (Paolo Lucchesi, 2004) modificata per accogliere la conversione automatizzata dei file LGC in modalit&agrave; <b>Mantieni Numerazione Paragrafi</b>. &Egrave; un file di testo e pu&ograve; essere aperto con Blocco Note. Se volete personalizzare l&rsquo;apparenza dei libri-game prodotti con LGC2Z5 potete modificare questo file. Alcune parti (come il messaggio &#8220;<em>A te la scelta avventuriero:</em>&#8221;) possono essere individuate e modificate intuitivamente, pur non conoscendo i principi della programmazione. Altre modifiche sono possibili nella misura in cui si conosce la programmazione in Inform 6. </li>
+  <li><strong>lgc2z5_it_conv_np.h</strong> &mdash; la medesima libreria di sopra modificata per la conversione in modalit&agrave; <b>Converti Numerazione Paragrafi</b>. </li>
+  <li><strong>Manuale LGC2Z5.htm</strong> &mdash; questa guida che state leggendo. </li>
+</ul>
+<h1><a name="Utilizzare"></a>Utilizzare I Libri-Gioco In Z-Machine</h1>
+<p>Bene, ora che si &egrave; convertito un libro-gioco in formato Z-Machine, come usarlo?</p>
+<p>Per poter giocare il librogame in formato .z5/.z8 sar&agrave; necessario un interprete per la Z-Machine.</p>
+<p> Qui di seguito ne elencher&ograve; alcuni, ma consiglio di consultare i principali siti sull&rsquo;Interactive Fiction per esplorare pi&ugrave; a fondo i vari interpreti esistenti e per non perdersi le novit&agrave;:</p>
+<ul>
+  <li><a href="http://www.ifitalia.info/" target="_blank">IF-Italia</a></li>
+  <li><a href="http://www.ifwiki.org/index.php/Category:Interpreter" target="_blank">The Interactive Fitcion Wiki</a> </li>
+</ul>
+<h2><a name="InterpretiWindows"></a>Interpreti Windows</h2>
+<h3>Windows Frotz</h3>
+<p><a href="http://freespace.virgin.net/davidk.kinder/frotz.html" target="_blank">http://freespace.virgin.net/davidk.kinder/frotz.html</a></p>
+<p>WinFrotz &egrave; un ottimo interprete stand-alone con men&ugrave; in italiano. Pesa meno di 1,5 Mb e pu&ograve; essere distribuito assieme al proprio libro-game. Rinominando l&rsquo;eseguibile &#8220;Frotz.exe&#8221; con il nome del proprio file .z5/.z8 (es. &#8220;TitoloLibro.exe&#8221; per il librogame &#8220;TitoloLibro.z5&#8221;) eseguir&agrave; automaticamente il librogame all&rsquo;avvio (utile per la distribuzione in download del proprio librogame!). </p>
+<p>La versione 1.16 inclede la lettura con sintesi vocale, per i non-vedenti. </p>
+<h3>Gargoyle</h3>
+<p><a href="http://ccxvii.net/gargoyle/" target="_blank">http://ccxvii.net/gargoyle/</a></p>
+<p>Gargoyle &egrave; un interprete multiformato (permette di giocare praticamente qualsiasi Avventura Testuale, non solo quelle in formato Z-Machine). </p>
+<p>&Egrave; disponibile sia in versione installabile che stand-alone. </p>
+<h2><a name="InterpretiMac"></a>Interpreti Mac</h2>
+<h3>Zoom</h3>
+<p><a href="http://www.logicalshift.co.uk/unix/zoom/" target="_blank">http://www.logicalshift.co.uk/unix/zoom/</a></p>
+<h3>MacFrotz</h3>
+<p><a href="http://www.thinkyhead.com/macfrotz" target="_blank">http://www.thinkyhead.com/macfrotz</a></p>
+<h2><a name="InterpretiLinux"></a>Interpreti Linux</h2>
+<h3>Gargoyle</h3>
+<p><a href="http://ccxvii.net/gargoyle/" target="_blank">http://ccxvii.net/gargoyle/</a></p>
+<h2><a name="InterpretiNintendo"></a>Interpreti Nintendo Gameboy </h2>
+<h3>INFGMB </h3>
+<p><a href="http://nocash.emubase.de/infgmb.htm" target="_blank">http://nocash.emubase.de/infgmb.htm</a></p>
+<h2><a name="InterpretiTelefonini"></a>Interpreti Telefonini</h2>
+<h3>Frobnitz (PalmOS)</h3>
+<p><a href="http://frobnitz.sourceforge.net/" target="_blank">http://frobnitz.sourceforge.net/</a></p>
+<h2><a name="InterpretiWeb"></a>Interpreti Web</h2>
+<p>La possibilit&agrave; di trasformare il proprio libro-game in un file giocabile online, tramite browser &#8212; e senza richiedere all&rsquo;utente finale di installare alcun software &#8212; &egrave; forse ci&ograve; che valorizza maggiormente l&rsquo;uso di LGC2Z5!</p>
+<h3>ZMPP (Java)</h3>
+<p><a href="http://sourceforge.net/projects/zmpp/" target="_blank">http://sourceforge.net/projects/zmpp/</a> </p>
+<h3>ZPlet (Java)</h3>
+<p><a href="http://sourceforge.net/projects/zplet/" target="_blank">http://sourceforge.net/projects/zplet/</a> </p>
+<h3>Flaxo (Flash)</h3>
+<p><a href="http://www.bespokerealities.com/Flaxo.html" target="_blank">http://www.bespokerealities.com/Flaxo.html</a> </p>
+<p>Ancora in versione beta ma funzionante. </p>
+<h3>Flashonate (Flash)</h3>
+<p><a href="http://home.cogeco.ca/%7Epeter_rogers/" target="_blank">http://home.cogeco.ca/~peter_rogers/</a></p>
+<h3>Parchment (Javascript)</h3>
+<p><a href="http://code.google.com/p/parchment/" target="_blank">http://code.google.com/p/parchment/</a></p>
+<p>A questo link &egrave; possibile giocare delle AT online con Parchment:</p>
+<p><a href="http://parchment.toolness.com/" target="_blank">http://parchment.toolness.com/</a></p>
+<h3>Muttonate (Javascript)</h3>
+<p><a href="http://ifarchive.info/if-archive/interpreters-infocom-zcode/muttonate/" target="_blank">http://ifarchive.info/if-archive/interpreters-infocom-zcode/muttonate/</a></p>
+<h1><a name="QuestoQuanto"></a>Questo &Egrave; Quanto ...</h1>
+<p>E qui finisci questa breve guida all&rsquo;uso di LGC2Z5.</p>
+<p>Se trovi bachi, imperfezioni, o sei hai suggerimenti, domande, ecc., contattami: &lt;<a href="mailto:tajmone@gmail.com">tajmone@gmail.com</a>&gt;</p>
+<p style="text-align:right ">Tristano Ajmone &mdash; 
+  <a href="http://www.ZenFactor.org" target="_blank">www.ZenFactor.org</a> &mdash; Torino, 
+  Ottobre 2010 </p>
