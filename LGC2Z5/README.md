@@ -12,6 +12,7 @@ LGC2Z5 (Libro Game Creator To Z-Machine 5) è un convertitore dal formato libro 
 [Manuale]: ./src/Manuale_LGC2Z5.htm
 [Anteprima Manuale tramite GitHub & BitBucket HTML Preview]: http://htmlpreview.github.io/?https://github.com/tajmone/Archivio-AT-Tristano/blob/master/LGC2Z5/src/Manuale_LGC2Z5.htm "Anteprima HTML del Manuale tramite GitHub & BitBucket HTML Preview"
 
+
 -----
 
 **Indice**
@@ -23,26 +24,30 @@ LGC2Z5 (Libro Game Creator To Z-Machine 5) è un convertitore dal formato libro 
     - [Incompatibilità Con LGC3](#incompatibilit%C3%A0-con-lgc3)
 - [Dati Tecnici](#dati-tecnici)
     - [Requisiti Per La Compilazione](#requisiti-per-la-compilazione)
-- [Contenuti](#contenuti)
+- [Contenuti del Progetto](#contenuti-del-progetto)
     - [Contenuti dello Zippato](#contenuti-dello-zippato)
 - [Libro Game Creator](#libro-game-creator)
+- [Libro Game Creator 2](#libro-game-creator-2)
 - [Licenza](#licenza)
     - [Sorgente LGC2Z5](#sorgente-lgc2z5)
     - [Libreria CYOA](#libreria-cyoa)
     - [Il Manuale](#il-manuale)
     - [Inform 6](#inform-6)
+    - [LGC2](#lgc2)
 
 <!-- /MarkdownTOC -->
 
 -----
 
+
+
 # Introduzione
 
-Creai questo piccolo applicativo nel 2010. All'epoca stavo riscoprendo il mondo dei libri game (una mia vecchia passione) ed esplorando il ricco patrimonio di testi creati e resi disponibili dalla comunità di autori italiana sui portali [Librogame's Land] e [Il Mondo dei Librogames].
+Creai questo piccolo applicativo nel 2010. All'epoca stavo riscoprendo il mondo dei librigame (una mia vecchia passione) ed esplorando il ricco patrimonio di testi creati e resi disponibili dalla comunità di autori italiana sui portali [Librogame's Land] e [Il Mondo dei Librogames].
 
 In quel periodo era appena stato pubblicato _[Get Lamp]_, il documentario di Jason Scott sulle avventure testuali, che mi aveva aperto gli occhi sul fatto che le avventure testuali sono uno dei pochi generi di videogiochi accessibili ai non vedenti. La comunità dell'IF si era sempre adoperata a garantire l'accessibilità al gioco delle AT ai chiechi, tramite interpreti di gioco dedicati e/o il supporto per l'audiolettura del testo.
 
-Mi resi conto che la creazione di un convertitore in grado di trasformare un libro game in uno storyfile IF avrebbe consentito di rendere immediatamente accessibili ai non vedenti centinai di libri game. In quegli anni l'accessibilità informatica era ancora un argomento giovane e poco diffuso, specie in Italia, sia per quanto riguardava i documenti digitiali che i siti web (paradossalmente, gli italiani hanno rivestito un ruolo chiave nell'[iniziativa del W3C per l'accessibilità web]). Per il formato Z-Machine esistevano già molti interpreti accessibili ai non vedenti, e un libro game convertito a questo formato sarebbe stato giocabile su svariati sistemi operativi e finanche nel browser.
+Mi resi conto che la creazione di un convertitore in grado di trasformare un libro game in uno storyfile IF avrebbe consentito di rendere immediatamente accessibili ai non vedenti centinai di librigame. In quegli anni l'accessibilità informatica era ancora un argomento giovane e poco diffuso, specie in Italia, sia per quanto riguardava i documenti digitiali che i siti web (paradossalmente, gli italiani hanno rivestito un ruolo chiave nell'[iniziativa del W3C per l'accessibilità web]). Per il formato Z-Machine esistevano già molti interpreti accessibili ai non vedenti, e un libro game convertito a questo formato sarebbe stato giocabile su svariati sistemi operativi e finanche nel browser.
 
 ![Anteprima di "Fuga dall'Altrove" in Windows Frotz][Screenshot Fuga dall'Altrove WinFrotz]
 
@@ -60,11 +65,11 @@ Ad oggi (2018) LGC2Z5 è ancora funzionante, nonostante gli otto anni trascorsi 
 
 ## Incompatibilità Con LGC3
 
-Con LGC2Z5 non è possibile covertire libri game creati con [LGC3], la nuova versione di Libro Game Creator.
+Con LGC2Z5 non è possibile covertire librigame creati con [LGC3], la nuova versione di Libro Game Creator.
 
 Non ho avuto modo di approfondire i cambiamenti introdotti da LGC3 nel formato di salvataggio, per cui non ho idea di quanto lavoro richiederebbe rendere LGC2Z5 compatibile con LGC3.
 
-Da una rapida scorsa del manuale, ho visto che LGC3 è in grado di importare libri creati con [la versione 2 di LGC][LGC], ma non mi risulta vi siano opzioni per esportare un libro nel vecchio formato di LGC2. Quindi temo che, allo stato attuale, non sia possibile usare LGC2Z5 con libri game di LGC3.
+Da una rapida scorsa del manuale, ho visto che LGC3 è in grado di importare libri creati con [la versione 2 di LGC][LGC], ma non mi risulta vi siano opzioni per esportare un libro nel vecchio formato di LGC2. Quindi temo che, allo stato attuale, non sia possibile usare LGC2Z5 con librigame di LGC3.
 
 
 # Dati Tecnici
@@ -86,10 +91,18 @@ Da una rapida scorsa del manuale, ho visto che LGC3 è in grado di importare lib
 
 LGC2Z5 è stato scritto in AutoIt script, usando [AutoIt v3.3.6.0]. Non so se il sorgente possa essere compilato con versioni successive di AutoIt o se vi siano problemi di retrocompatibilità; è comunque possibile scaricare le versioni precedenti di AutoIT dall'[archivio storico del sito]. La versione più recente di AutoIT è attualmente la v3.3.14.5 (Marzo 2018); siccome siamo ancora nell'ambito della `v3.3.x` presuppongo che il sorgente dovrebbe essere ancora compilabile, magari con piccoli adattamenti. 
 
-# Contenuti
+# Contenuti del Progetto
+
+LGC2Z5:
 
 - [`/src/`](./src) — sorgenti di LGC2Z5 v1.3
-- [`LGC2Z5.zip`](./LGC2Z5.zip) — lo zippato originale per la distribuzione di LGC2Z5 v1.3
+- [`LGC2Z5.zip`](./LGC2Z5.zip) — lo zippato originale per la distribuzione di LGC2Z5 v1.3 (eseguibile)
+
+Libro Game Creator 2:
+
+- [`/LGC2/`](./LGC2/) — contiente zippato con LGC v2.0.3 (eseguibile)
+
+
 
 ## Contenuti dello Zippato
 
@@ -104,24 +117,34 @@ Il file `LGC2Z5.zip` qui incluso è lo stesso che veniva offerto in scaricamento
 
 # Libro Game Creator
 
-Per poter creare i tuoi libri game da convertire in Z-Machine con LGC2Z5, dovrai procurarti __Libro Game Creator 2__ (ossia, la versione precdente a quella attuale, che è [LGC3]). Pur non essendo più disponibile in download dalla [pagina ufficiale di Libro Game Creator], è possibile scaricare LGC2 da Google Code:
+- http://www.matteoporopat.com/librogame/
 
-- https://code.google.com/archive/p/lgc/downloads
+LGC è un applicativo gratuito per la scrittura e pubblicazione di librigame (anche noti come "libri-gioco" o CYOA — Choose Your Own Adventure), creato da Matteo Proropat:
 
-L'ultima versione di LGC2 rilasciata è stata la `v2.0.3 build 03` (2012-05-16):
+> Libro Game Creator o LGC è un software per la scrittura di testi interattivi o “narrativi a bivi”. LGC ne permette l’editing, la connessione tra i paragrafi, l’esportazione in vari formati tra i quali HTML ed RTF (con link attivi), la creazione dei grafici di connessione del libro game e altro ancora.
 
-- [`LibroGameCreator-2.0.3.b03.zip`][LGC-2.0.3.b03] (versione consigliata)
+La prima versione di LGC (detta anche "LGC1") risale al 2007, in seguito succeduta e rimpiazzata dalla versione 2 (2010) e infine dalla 3 (2014) che è una riscrittura di LGC in Java e segna il passaggio di LGC da applicazione per soli sistemi Windows ad applicazione multi-piattaforma. 
 
+- __LGC__ (2007–2009)
+- __LGC2__ (2010—2014)
+- __LGC3__ (2014–)
 
-La versione di LGC2 usata all'epoca della creazione di LGC2Z5 era la `v2.0.1 build 39` (2010-07-05). Nel caso sorgessero problemi di compatibilità (non dovrebbero esservene), è anche possibile scaricare la versione esatta per cui fu concepito LGC2Z5:
+I vari salti da una versione maggiore all'altra (LGC, LGC2, LGC3) introducono nuove funzionalità che richiedono l'adozione di un nuovo formato per i progetti LGC, spezzando la retrocompatibilità con le versioni precedenti (i progetti nel vecchio formato sono importabili nelle versioni successive, ma non viceversa).
 
-- [`LibroGameCreator-2.0.1b39.zip`][LGC-2.0.1b39] (solo in caso di problemi)
+La versione attuale di Libro Game Creator è la 3 (LGC3), il cui progetto è attivamente mantenuto ed aggiornato — a differenza delle versioni precedenti, che non lo sono più in quanto rimpiazzate dall'ultima versione, e quindi obsolete.
 
-Inoltre, per poter usare LGC2 dovrai anche installare il programma gratuito [Graphviz]:
+# Libro Game Creator 2
+
+Per poter creare librigame da convertire in Z-Machine con LGC2Z5, è necessario usare la versione 2 di __Libro Game Creator__ (LGC2). Matteo Proropat, autore di LGC, mi ha gentilmente concesso di includere in questo progetto una copia dell'ultima versione di LGC2 rilasciata, che troverete all'interno dello zippato `LibroGameCreator-2.0.3.b03.zip` nella cartella:
+
+- [`/LGC2/`](./LGC2/)
+
+Si tratta di un programma standalone, per Windows, che non richiede installazione: è sufficiente dezipparne i contenuti ed avviarlo. Inoltre, per poter usare appieno LGC2 dovrai installare il programma gratuito [Graphviz], richiesto per la creazione dei grafici di connessione del libro (mappe di gioco):
 
 - https://graphviz.gitlab.io/_pages/Download/Download_windows.html
 
-All'epoca della creazione di LGC2Z5 usavo Graphviz v2.34; la versione attuale (marzo 2018) di Graphviz è la v2.38 e non dovrebbero esservi problemi di retrocompatibilità.
+> __APPUNTO TECNICO__ — La versione di LGC2 usata all'epoca della creazione di LGC2Z5 era la `v2.0.1 build 39` (2010-07-05), e quella di Graphviz la `v2.34`.
+
 
 # Licenza
 
@@ -287,7 +310,16 @@ described herein. Inform software is supplied ``as is'' and carries no
 warranty, actual or implied.
 ```
 
+## LGC2
 
+    Libro Game Creator
+    Scritto da Matteo Poropat
+    (C) 2007 Matteo Poropat (http://www.memoriedalbuio.com)
+    In collaborazione con Libro Game's Land (http://www.librogame.altervista.org)
+
+Il testo completo della licenza d'uso di LGC2 può essere visionato nel file:
+
+- [`/LGC2/LICENSE`](./LGC2/LICENSE)
 
 
 
@@ -320,10 +352,12 @@ warranty, actual or implied.
 
 [Graphviz]: https://www.graphviz.org/
 
+[librigame]: https://it.wikipedia.org/wiki/Librogame "Visita la pagina 'Librogame' di Wikipedia"
 
 [LGC]: #libro-game-creator "Salta alla sezione su Libro Game Creator"
 [Libro Game Creator]: #libro-game-creator "Salta alla sezione su Libro Game Creator"
-[Libro Game Creator 2]: #libro-game-creator "Salta alla sezione su Libro Game Creator"
+[Libro Game Creator 2]: #libro-game-creator-2 "Salta alla sezione su Libro Game Creator 2"
+[Libro Game Creator v2]: #libro-game-creator-2 "Salta alla sezione su Libro Game Creator 2"
 [pagina ufficiale di Libro Game Creator]: http://www.matteoporopat.com/librogame/ "Visita la homepage di Libro Game Creator"
 [LGC3]: http://www.matteoporopat.com/librogame/libro-game-creator-3/ "Visita la homepage di Libro Game Creator 3"
 
