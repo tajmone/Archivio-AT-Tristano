@@ -34,6 +34,7 @@ LGC2Z5 (Libro Game Creator To Z-Machine 5) è un convertitore dal formato libro 
     - [Il Manuale](#il-manuale)
     - [Inform 6](#inform-6)
     - [LGC2](#lgc2)
+    - [Fuga dall'Altrove](#fuga-dallaltrove)
 
 <!-- /MarkdownTOC -->
 
@@ -102,7 +103,14 @@ Libro Game Creator 2:
 
 - [`/LGC2/`](./LGC2/) — contiente zippato con LGC v2.0.3 (eseguibile)
 
+Librogame _[Fuga dall'Altrove]_, di Matteo Proropat, a titolo dimostrativo:
 
+- [`/esempio/`](./esempio/)
+    + [`fuga_dall_altrove.lgc`][Fuga LGC] — sorgente LGC2
+    + [`fuga_dall_altrove.inf`][Fuga I6] — conversione Inform 6
+    + [`fuga_dall_altrove.z5`][Fuga Z5] — compilato Z-Machine 5
+
+Ringrazio Matteo Proropat, autore di LGC e _[Fuga dall'Altrove]_, per averne gentilmente concesso l'inclusione nel presente progetto.
 
 ## Contenuti dello Zippato
 
@@ -322,8 +330,30 @@ Il testo completo della licenza d'uso di LGC2 può essere visionato nel file:
 - [`/LGC2/LICENSE`](./LGC2/LICENSE)
 
 
+## Fuga dall'Altrove
+
+    ©2007, Matteo Poropat
+    2007, Memorie dal Buio – www.memoriedalbuio.com
+    2007, Librogame’s Land – www.librogame.altervista.org
+    Impaginazione a cura di Dirk06
+    Copertina a cura di Dragan
+    
+    Il presente libro è da intendersi ad uso esclusivamente personale, ne è
+    vietata qualsiasi tipo di vendita e la modifica anche parziale.
+    Ogni eventuale riferimento a fatti realmente accaduti o persone reali è
+    puramente casuale.
+
+Matteo Proropat, autore di _Fuga dall'Altrove_, mi ha concesso il permesso di includere in questo progetto il sorgente del libro game ed i derivanti file convertiti/compilati da LGC2Z5, a titolo di esempio d'uso per LGC2Z5.
+
+- http://www.matteoporopat.com/fuga-dallaltrove-un-libro-game-in-formato-ebook/
+
+Per maggiori informazioni, si veda la cartella:
+
+- [`/esempio/`](./esempio/)
 
 
+
+[Fuga dall'Altrove]: #fuga-dallaltrove
 
 
 [testo completo di entrambe le licenze]: https://github.com/DavidKinder/Inform6/blob/master/licence.txt "Testo completo della dual license di Inform 6"
@@ -363,3 +393,8 @@ Il testo completo della licenza d'uso di LGC2 può essere visionato nel file:
 
 [LGC-2.0.3.b03]: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/lgc/LibroGameCreator-2.0.3.b03.zip "Scarica LGC v2.0.3 da Google Code (link diretto)"
 [LGC-2.0.1b39]: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/lgc/LibroGameCreator-2.0.1b39.zip "Scarica LGC v2.0.1 da Google Code (link diretto)"
+
+[Fuga LGC]: ./esempio/fuga_dall_altrove.lgc "Librogame 'Fuga dall'Altrove', di Matteo Proropat (sorgente LGC)"
+[Fuga I6]: ./esempio/fuga_dall_altrove.inf "Librogame 'Fuga dall'Altrove', di Matteo Proropat (conversione Inform 6)"
+[Fuga Z5]: ./esempio/fuga_dall_altrove.z5 "Librogame 'Fuga dall'Altrove', di Matteo Proropat (compilato Z5)"
+

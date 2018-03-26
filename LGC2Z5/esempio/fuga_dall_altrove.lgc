@@ -1,0 +1,1241 @@
+HEADER2
+LGC:1.0.1.70
+Fuga dall'Altrove
+speciale
+Matteo Poropat
+S:<:>:
+END_HEADER
+1
+
+2*
+FLAGS:1
+BEGIN
+E’ la fine della solita giornata lavorativa, saluti tutti in ufficio, augurando un buon weekend e sfrutti l’ascensore fortunatamente già disponibile al tuo piano per scendere al posteggio aziendale. Quando le porte metalliche si aprono ti scopri ad esitare un attimo. Il luogo è stranamente buio, immerso in una penombra densa, i neon più deboli del solito. Il silenzio è totale e per un attimo ti fa pensare ad una sorta di immensa tomba moderna, dove cadaveri metallici rimangono a putrefarsi arrugginendo nella loro morte inevitabile. Scacci il lugubre pensiero e  ti dirigi al tuo posto macchina ma la tua sorpresa è notevole quando noti che il posteggio è completamente vuoto. Rimani per un attimo sbigottito, le possibili ragioni di un tale evento si elencano nel tuo cervello mentre ti guardi attorno pensando di aver sbagliato piano o settore. 
+Prosegui al <2> per capire cosa sta succedendo.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Times New Roman;}{\f1\fnil\fcharset1 Arial;}{\f2\fnil\fcharset0 Times New Roman;}{\f3\fnil\fcharset1 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\lang1033\fs24 E\'92 la fine della solita giornata lavorativa, saluti tutti in ufficio, augurando un buon weekend e sfrutti l\'92ascensore fortunatamente gi\'e0 disponibile al tuo piano per scendere al posteggio aziendale. Quando le porte metalliche si aprono ti scopri ad esitare un attimo. Il luogo \'e8 stranamente buio, immerso in una penombra densa, i neon pi\'f9 deboli del solito. Il silenzio \'e8 totale e per un attimo ti fa pensare ad una sorta di immensa tomba moderna, dove cadaveri metallici rimangono a putrefarsi arrugginendo nella loro morte inevitabile. Scacci il lugubre pensiero e  ti dirigi al tuo posto macchina ma la tua sorpresa \'e8 notevole quando noti che il posteggio \'e8 completamente vuoto. Rimani per un attimo sbigottito, le possibili ragioni di un tale evento si elencano nel tuo cervello mentre ti guardi attorno pensando di aver sbagliato piano o settore. \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Prosegui al <2> per capire cosa sta succedendo.}
+END_STREAM
+2
+
+3*
+FLAGS:1
+BEGIN
+In questo racconto il protagonista sei tu! Saranno le tue scelte, paragrafo dopo paragrafo, a portare avanti la storia verso la sua giusta conclusione, guidando il protagonista tra corridoio bui e creature mostruose. Per muoverti nel gioco dovrai semplicemente andando al paragrafo indicato per ogni scelta. Per giocare non ti servirà altro che la rivista da leggere, un foglio, una matita ed una gomma per segnare i tuoi progressi e un dado a 6 facce, che rappresenterà l’intromissione del fato nell’avventura. Il personaggio che guiderai nella storia sarà descritto da alcuni attributi numerici che varieranno durante lo svolgersi della storia, per cui da subito segnali sul foglio in modo da tenerne traccia. Le tue caratteristiche sono elencate di seguito, per ognuna viene indicato il nome, l’abbreviazione usata nel testo ed il valore iniziale. 
+ATTENZIONE: nel corso della storia ci saranno situazioni in cui aumentare il valore dell’attributo ma MAI oltre il valore massimo determinato all’inizio del gioco (nemmeno tramite la regola M.E.E.R. indicata più sotto).
+Punti Ferità (PF) indicano lo stato di salute fisica. Il valore iniziale è 24, se arrivano a zero sei morto.
+Punti Mente (PM) indicano la sanità mentale e la capacità di subire stress nervoso. Il valore iniziale è 16, se arriva a zero sei impazzito.
+Velocità (V) indica la capacità di movimento, sia nelle azioni come camminare e saltare che negli scontri fisici. Il valore è pari alla metà di PF arrotondata per eccesso (quindi 7 PF corrispondono a 4 di V). Ogni volta che variano i PF ricordati di cambiare il valore di V.
+Psiche (P) indica la forza mentale del personaggio. Il valore iniziale è la metà di PM arrotondata per eccesso. Ogni volta che cambia il valore di PM ricordati di cambiare il valore di P.
+Danno (D) indica il danno base. All’inizio potrai contare solo sulla forza dei pugni e non essendo un pugile non sono molto potenti, per cui farai solo 2 punti di danno. Se trovi delle armi puoi usarle ed aggiungere il loro bonus al danno, ma è permesso usare solo un’arma alla volta. 
+Continua al paragrafo <3>!
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 In questo racconto il protagonista sei tu!\plain \f1\lang1033\fs24  Saranno le tue scelte, paragrafo dopo paragrafo, a portare avanti la storia verso la sua giusta conclusione, guidando il protagonista tra corridoio bui e creature mostruose. Per muoverti nel gioco dovrai semplicemente andando al paragrafo indicato per ogni scelta. Per giocare non ti servir\'e0 altro che la rivista da leggere, un foglio, una matita ed una gomma per segnare i tuoi progressi e un dado a 6 facce, che rappresenter\'e0 l\'92intromissione del fato nell\'92avventura. Il personaggio che guiderai nella storia sar\'e0 descritto da alcuni attributi numerici che varieranno durante lo svolgersi della storia, per cui da subito segnali sul foglio in modo da tenerne traccia. Le tue caratteristiche sono elencate di seguito, per ognuna viene indicato il nome, l\'92abbreviazione usata nel testo ed il valore iniziale. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 ATTENZIONE\plain \f1\lang1033\fs24 : nel corso della storia ci saranno situazioni in cui aumentare il valore dell\'92attributo ma MAI oltre il valore massimo determinato all\'92inizio del gioco (nemmeno tramite la regola M.E.E.R. indicata pi\'f9 sotto).
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 Punti Ferit\'e0\plain \f1\lang1033\fs24  (\plain \f1\b\lang1033\fs24 PF\plain \f1\lang1033\fs24 ) indicano lo stato di salute fisica. Il valore iniziale \'e8 24, se arrivano a zero sei morto.
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 Punti Mente\plain \f1\lang1033\fs24  (\plain \f1\b\lang1033\fs24 PM\plain \f1\lang1033\fs24 ) indicano la sanit\'e0 mentale e la capacit\'e0 di subire stress nervoso. Il valore iniziale \'e8 16, se arriva a zero sei impazzito.
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 Velocit\'e0\plain \f1\lang1033\fs24  (\plain \f1\b\lang1033\fs24 V\plain \f1\lang1033\fs24 ) indica la capacit\'e0 di movimento, sia nelle azioni come camminare e saltare che negli scontri fisici. Il valore \'e8 pari alla met\'e0 di PF arrotondata per eccesso (quindi 7 PF corrispondono a 4 di V). Ogni volta che variano i PF ricordati di cambiare il valore di V.
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 Psiche\plain \f1\lang1033\fs24  (\plain \f1\b\lang1033\fs24 P\plain \f1\lang1033\fs24 ) indica la forza mentale del personaggio. Il valore iniziale \'e8 la met\'e0 di PM arrotondata per eccesso. Ogni volta che cambia il valore di PM ricordati di cambiare il valore di P.
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\b\lang1033\fs24 Danno\plain \f1\lang1033\fs24  (\plain \f1\b\lang1033\fs24 D\plain \f1\lang1033\fs24 ) indica il danno base. All\'92inizio potrai contare solo sulla forza dei pugni e non essendo un pugile non sono molto potenti, per cui farai solo 2 punti di danno. Se trovi delle armi puoi usarle ed aggiungere il loro bonus al danno, ma \'e8 permesso usare solo un\'92arma alla volta. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Continua al paragrafo <3>!}
+END_STREAM
+3
+
+4*
+FLAGS:1
+BEGIN
+Un aspetto importante del gioco è il confronto sulle abilità (e la subdola regola dei Mali Estremi o Estremi Rimedi). Nel caso in cui venga richiesto di eseguire una prova di Velocità o Psiche devi tirare 2d6 e confrontare il valore ottenuto con la tua abilità. Se il valore è inferiore o uguale è un successo, se il valore è superiore purtroppo la prova è fallita. 
+
+Inoltre puoi decidere di sfidare ulteriormente la sorte con la regola dei Mali Estremi o Estremi Rimedi. Nel caso in cui il tiro per l’abilità sia il minimo (2) ottieni un Estremo Rimedio ed oltre a passare la prova puoi aumentare di un punto la caratteristica base (PF se era un test su V, PM se era un test su P) ma se ottieni il massimo (12) allora è un Male Estremo e la caratteristica va diminuita conseguentemente di un punto. 
+
+Ed ora veniamo ai combattimenti al paragrafo <4>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\lang1033\fs24 Un aspetto importante del gioco \'e8 il\plain \f1\b\lang1033\fs24  confronto sulle abilit\'e0 (\plain \f1\lang1033\fs24 e la subdola regola dei\plain \f1\b\lang1033\fs24  Mali Estremi o Estremi Rimedi). \plain \f1\lang1033\fs24 Nel caso in cui venga richiesto di eseguire una prova di Velocit\'e0 o Psiche devi tirare 2d6 e confrontare il valore ottenuto con la tua abilit\'e0. Se il valore \'e8 inferiore o uguale \'e8 un successo, se il valore \'e8 superiore purtroppo la prova \'e8 fallita. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Inoltre puoi decidere di sfidare ulteriormente la sorte con la regola dei \plain \f1\b\lang1033\fs24 Mali Estremi o Estremi\plain \f1\lang1033\fs24  \plain \f1\b\lang1033\fs24 Rimedi\plain \f1\lang1033\fs24 . Nel caso in cui il tiro per l\'92abilit\'e0 sia il minimo (2) ottieni un Estremo Rimedio ed oltre a passare la prova puoi aumentare di un punto la caratteristica base (PF se era un test su V, PM se era un test su P) ma se ottieni il massimo (12) allora \'e8 un Male Estremo e la caratteristica va diminuita conseguentemente di un punto. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Ed ora veniamo ai combattimenti al paragrafo <4>.}
+END_STREAM
+4
+
+5*
+FLAGS:1
+BEGIN
+Oltre alle semplici scelte per muoversi tra i paragrafi dovrai sostenere anche dei combattimenti divisi in turni. La descrizione della creatura che ti troverai davanti riporterà Nome, PF, Velocità e Danni (indicati ad es. come PF:12 V:PF/2 D:3) ed il combattimento si svolgerà nel seguente modo:
+
+a) calcola la velocità della creatura, se la tua è maggiore vai al b) altrimenti sei più lento e vai al c);
+
+b) il tuo attacco: tiri sulla tua velocità, se vinci lo colpisci, sottrai il tuo danno dai suoi PF, se è a 0 o meno è morto e tu hai vinto;
+
+c) attacco dell’avversario: tira sulla sua velocità, se vince ti colpisce, e ti ferisce per D punti ferita, se sei a 0 o meno sei morto e la storia finisce qui, altrimenti aggiorni la tua V e prosegui;
+
+d) ricomincia da a).
+
+ATTENZIONE: se durante il gioco torni sui tuoi passi in un paragrafo dove c’erano creature che hai ucciso non far caso alla loro descrizione, ovviamente quella locazione al secondo passaggio sarà vuota.
+Prosegui al <5>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Times New Roman;}{\f1\fnil\fcharset1 Arial;}{\f2\fnil\fcharset0 Times New Roman;}{\f3\fnil\fcharset1 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\lang1033\fs24 Oltre alle semplici scelte per muoversi tra i paragrafi dovrai sostenere anche dei \plain \f2\b\lang1033\fs24 combattimenti\plain \f2\lang1033\fs24  \plain \f2\b\lang1033\fs24 divisi in turni\plain \f2\lang1033\fs24 . La descrizione della creatura che ti troverai davanti riporter\'e0 \plain \f2\b\lang1033\fs24 Nome\plain \f2\lang1033\fs24 , \plain \f2\b\lang1033\fs24 PF, Velocit\'e0\plain \f2\lang1033\fs24  e \plain \f2\b\lang1033\fs24 Danni\plain \f2\lang1033\fs24  (indicati ad es. come PF:12 V:PF/2 D:3) ed il combattimento si svolger\'e0 nel seguente modo:\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 a) calcola la velocit\'e0 della creatura, se la tua \'e8 maggiore vai al b) altrimenti sei pi\'f9 lento e vai al c);\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 b) il tuo attacco: tiri sulla tua velocit\'e0, se vinci lo colpisci, sottrai il tuo danno dai suoi PF, se \'e8 a 0 o meno \'e8 morto e tu hai vinto;\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 c) attacco dell\'92avversario: tira sulla sua velocit\'e0, se vince ti colpisce, e ti ferisce per D punti ferita, se sei a 0 o meno sei morto e la storia finisce qui, altrimenti aggiorni la tua V e prosegui;\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 d) ricomincia da a).\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\b\lang1033\fs24 ATTENZIONE\plain \f2\lang1033\fs24 : se durante il gioco torni sui tuoi passi in un paragrafo dove c\'92erano creature che hai ucciso non far caso alla loro descrizione, ovviamente quella locazione al secondo passaggio sar\'e0 vuota.\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Prosegui al <5>.}
+END_STREAM
+5
+
+6*
+FLAGS:1
+BEGIN
+Potrà capitare di trovare oggetti lungo il percorso. In questo caso non devi fare altro che segnare nell’inventario il nome dell’oggetto ed il numero indicato nella descrizione. Quando si presenterà l’occasione per usarlo ti verrà chiesto di farlo (ci sarà scritta una frase del tipo “se hai qualcosa da usare fallo ora”) e per farlo dovrai sommare al numero del paragrafo in cui ti trovi quello indicato sull’oggetto, per andare al paragrafo corretto. 
+Ogni oggetto può essere usato una sola volta, dopo l’uso tira una linea sul nome per ricordartene.
+Ed ora tuffati nella letale avventura che ti aspetta al <6>!
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Times New Roman;}{\f1\fnil\fcharset1 Arial;}{\f2\fnil\fcharset0 Times New Roman;}{\f3\fnil\fcharset1 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\lang1033\fs24 Potr\'e0 capitare di trovare \plain \f2\b\lang1033\fs24 oggetti\plain \f2\lang1033\fs24  lungo il percorso. In questo caso non devi fare altro che segnare nell\'92inventario il nome dell\'92oggetto ed il numero indicato nella descrizione. Quando si presenter\'e0 l\'92occasione per usarlo ti verr\'e0 chiesto di farlo (ci sar\'e0 scritta una frase del tipo \'93\plain \f2\i\lang1033\fs24 se hai qualcosa da usare fallo ora\plain \f2\lang1033\fs24 \'94) e per farlo dovrai \plain \f2\b\lang1033\fs24 sommare al numero del paragrafo in cui ti trovi quello indicato sull\'92oggetto\plain \f2\lang1033\fs24 , per andare al paragrafo corretto. \par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Ogni oggetto pu\'f2 essere usato una sola volta, dopo l\'92uso tira una linea sul nome per ricordartene.\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Ed ora tuffati nella letale avventura che ti aspetta al <6>!}
+END_STREAM
+6
+
+8*10*
+FLAGS:1
+BEGIN
+Mentre sei col cellulare in mano vedi entrare dal fondo del corridoio una macchina grigio scuro, una grossa berlina, che si arresta a nemmeno un metro dalle tue gambe irrigidite dalla paura. Dall’auto escono due uomini che sembrano usciti da un vecchio film in bianco e nero. Uno è basso e robusto, l’altro è alto e magro e la carnagione pallida lo fa assomigliare ad un cadavere ambulante, entrambi vestiti come una copia sgualcita dei Blues Brothers. Si muovono verso di te con un’andatura curiosa, come se non fossero abituati a portare quegli abiti e ti apostrofano con una voce sibilante e metallica chiedendoti di entrare nell’auto per parlare di un affare urgente che riguarda la Global-Tech. 
+Non ti fidi e cerchi di tornare verso l’ascensore al paragrafo <8> oppure entri incuriosito nella loro auto al <10>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\lang1033\fs24 Mentre sei col cellulare in mano vedi entrare dal fondo del corridoio una macchina grigio scuro, una grossa berlina, che si arresta a nemmeno un metro dalle tue gambe irrigidite dalla paura. Dall\'92auto escono due uomini che sembrano usciti da un vecchio film in bianco e nero. Uno \'e8 basso e robusto, l\'92altro \'e8 alto e magro e la carnagione pallida lo fa assomigliare ad un cadavere ambulante, entrambi vestiti come una copia sgualcita dei Blues Brothers. Si muovono verso di te con un\'92andatura curiosa, come se non fossero abituati a portare quegli abiti e ti apostrofano con una voce sibilante e metallica chiedendoti di entrare nell\'92auto per parlare di un affare urgente che riguarda la Global-Tech. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Non ti fidi e cerchi di tornare verso l\'92ascensore al paragrafo <8> oppure entri incuriosito nella loro auto al <10>?}
+END_STREAM
+7
+
+74*
+FLAGS:1
+BEGIN
+Sei davanti ad una specie di portale luminoso, dal quale partono una serie di tentacoli di luce lungo tutta la sua superficie. Sai quello che ti aspetta se torni indietro per cui non puoi fare altro che immergerti nella luce al paragrafo <74>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sei davanti ad una specie di portale luminoso, dal quale partono una serie di tentacoli di luce lungo tutta la sua superficie. Sai quello che ti aspetta se torni indietro per cui non puoi fare altro che immergerti nella luce al paragrafo <74>.}
+END_STREAM
+8
+
+11*
+FLAGS:0
+BEGIN
+Come ti muovi per scappare gli uomini ti sono rapidamente addosso. Nella breve colluttazione che ne segue perdi 1 PF per i colpi subiti mentre un preciso colpo in testa ti fa piombare nelle tenebre del paragrafo <11>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Come ti muovi per scappare gli uomini ti sono rapidamente addosso. Nella breve colluttazione che ne segue perdi 1 PF per i colpi subiti mentre un preciso colpo in testa ti fa piombare nelle tenebre del paragrafo <11>.}
+END_STREAM
+9
+
+67*
+FLAGS:0
+BEGIN
+Il corridoio è pieno di scatoloni e strane apparecchiature in disuso, ricoperte da uno spesso strato di polvere. Li eviti correndo ed inciampando mentre dietro di te i suoni prodotti dall'inseguitore si fanno sempre più forti, mescolando al rumore di una corsa forsennata un verso gutturale, come il ruggito di una belva inferocita. 
+All'improvviso il corridoio si apre in una stanza molto ampia. Per sapere cosa ti aspetta prosegui al <67>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il corridoio \'e8 pieno di scatoloni e strane apparecchiature in disuso, ricoperte da uno spesso strato di polvere. Li eviti correndo ed inciampando mentre dietro di te i suoni prodotti dall'inseguitore si fanno sempre pi\'f9 forti, mescolando al rumore di una corsa forsennata un verso gutturale, come il ruggito di una belva inferocita. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 All'improvviso il corridoio si apre in una stanza molto ampia. Per sapere cosa ti aspetta prosegui al <67>.}
+END_STREAM
+10
+
+11*
+FLAGS:0
+BEGIN
+Ti osservano senza mutare espressione. Da vicino oltre che strani t'ispirano un misto di paura e ripugnanza. La pelle del viso è grinzosa, come non calzasse bene a quello che c'è sotto ed il tocco casuale della mano di uno degli uomini rivela una carne fredda e leggermente viscida. Ti ritrai e sali sul mezzo. Una volta sul sedile posteriore il tipo smilzo si gira nella tua direzione con indosso la distorta parodia di un sorriso e ti spruzza in viso qualcosa. Stordito dal gesto inatteso ti lanci verso la portiera ma le forze ti vengono meno rapidamente e ti ritrovi senza sapere come all'<11>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Times New Roman;}{\f1\fnil\fcharset1 Arial;}{\f2\fnil\fcharset0 Times New Roman;}{\f3\fnil\fcharset1 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f3\fs20 Ti osservano senza mutare espressione. Da vicino oltre che strani t'ispirano un misto di paura e ripugnanza. La pelle del viso \'e8 grinzosa, come non calzasse bene a quello che c'\'e8 sotto ed il tocco casuale della mano di uno degli uomini rivela una carne fredda e leggermente viscida. Ti ritrai e sali sul mezzo. Una volta sul sedile posteriore il tipo smilzo si gira nella tua direzione con indosso la distorta parodia di un sorriso e ti spruzza in viso qualcosa. Stordito dal gesto inatteso ti lanci verso la portiera ma le forze ti vengono meno rapidamente e ti ritrovi senza sapere come all'<11>.}
+END_STREAM
+11
+
+13*15*
+FLAGS:0
+BEGIN
+Ti risvegli in una stanza angusta e priva di finestre. La testa ti duole e per un po' non riesci a fare altro che rimanere disteso. Poi, cercando di guardare nell'oscurità noti che non c'è nulla nella tua stanza, al di fuori di un buco scuro in un angolo dal quale arriva un odore che ti procura un conato di vomito. Se questa è come sembra una cella quello sarà il tuo bagno per i prossimi giorni qua dentro. Inoltre tu non hai addosso più nulla di tuo ed al posto degli abiti indossi un lungo camice bianco, simile a quello che si usa negli ospedali prima delle operazioni. 
+Se inizi a gridare che vuoi essere liberato vai al <13> altrimenti attendi in silenzio il prossimo evento al paragrafo <15>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Ti risvegli in una stanza angusta e priva di finestre. La testa ti duole e per un po' non riesci a fare altro che rimanere disteso. Poi, cercando di guardare nell'oscurit\'e0 noti che non c'\'e8 nulla nella tua stanza, al di fuori di un buco scuro in un angolo dal quale arriva un odore che ti procura un conato di vomito. Se questa \'e8 come sembra una cella quello sar\'e0 il tuo bagno per i prossimi giorni qua dentro. Inoltre tu non hai addosso pi\'f9 nulla di tuo ed al posto degli abiti indossi un lungo camice bianco, simile a quello che si usa negli ospedali prima delle operazioni. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se inizi a gridare che vuoi essere liberato vai al <13> altrimenti attendi in silenzio il prossimo evento al paragrafo <15>.}
+END_STREAM
+12
+
+58*
+FLAGS:0
+BEGIN
+Credevi fosse davvero possibile seminare un Segugio di Tindalos che può viaggiare tra i piani dimensionali per inseguire la sua vittima? 
+La creatura ti raggiunge all'<58>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Credevi fosse davvero possibile seminare un \plain \f2\b\fs20 Segugio di Tindalos\plain \f2\fs20  che pu\'f2 viaggiare tra i piani dimensionali per inseguire la sua vittima? 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 La creatura ti raggiunge all'<58>.}
+END_STREAM
+13
+
+15*
+FLAGS:0
+BEGIN
+Le tue urla squarciano il silenzio opprimente del luogo e nessuno risponde per un bel po' mentre fai del tuo meglio per attirare l'attenzione di chi ti ha rapito. Mentre ti stai sgolando una voce profonda e metallica che proviene dal fondo del corridoio ti scuote avvisandoti di stare in silenzio, che manca poco al tuo turno. Rimani sbigottito mentre la voce si spegne ed il silenzio appiccicoso e malato di quel luogo torna ad avvolgerti. 
+Nella penombra che ti circonda ti siedi nella tua cella sperando che al paragrafo <15> le cose possano migliorare.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Le tue urla squarciano il silenzio opprimente del luogo e nessuno risponde per un bel po' mentre fai del tuo meglio per attirare l'attenzione di chi ti ha rapito. Mentre ti stai sgolando una voce profonda e metallica che proviene dal fondo del corridoio ti scuote avvisandoti di stare in silenzio, che manca poco al tuo turno. Rimani sbigottito mentre la voce si spegne ed il silenzio appiccicoso e malato di quel luogo torna ad avvolgerti. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Nella penombra che ti circonda ti siedi nella tua cella sperando che al paragrafo <15> le cose possano migliorare.}
+END_STREAM
+14
+
+73*
+FLAGS:0
+BEGIN
+L’uomo sembra capire le tue intenzioni e rapidamente ti aiuta ad aprire la porta. In due riuscite a spostare le pesanti ante metalliche, tanto da infilarvi tra esse e passare al corridoio successivo, mentre la porta si richiude dietro di voi. Una volta fuori osservi l’uomo e noti che il suo sguardo è completamente perso, inizia a balbettare mentre grosse lacrime gli solcano le guance, poi la voce si fa più salda ed inizia a raccontare qualcosa, deliri sull’esperienza mostruosa che ha subito probabilmente. 
+
+“Mi chiamo Lou… grazie… grazie per avermi salvato… ma siamo ancora in pericolo… tutti… sono piovuti dal cosmo… li dentro tutti questi mesi li ho potuti sognare… i Mi-Go, i funghi di Plutone… rapiscono certe persone e ne conservano le menti per imparare cose sul nostro mondo ed i corpi… quelli vengono riutilizzati, vuotati di ogni interiora, sono come vestiti… per permettergli di muoversi tra di noi. Ma non è questo il peggio, dovete capire, sono qui per un motivo, si sono diffusi sotto le nostre città come una peste… ma hanno un unico scopo… dovete avvisare… loro vogliono…”. 
+
+All’improvviso una strana nebbia inizia ad addensarsi in un angolo alle spalle di Lou e da essa riprende lentamente forma il Segugio di Tindalos che ti inseguiva. 
+Stai per avvisarlo quando lo sguardo dell’uomo si fa vitreo e dalle sue labbra inizia a colare un rivolo di sangue. Vedi la lingua del mostro, innestata alla base del suo cranio, mentre la creatura inizia a cibarsi di lui. Ormai non c’è nulla da fare, guardi ancora per un attimo la scena raccapricciante ed inizi a correre verso il paragrafo <73>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f1\lang1033\fs24 L\'92uomo sembra capire le tue intenzioni e rapidamente ti aiuta ad aprire la porta. In due riuscite a spostare le pesanti ante metalliche, tanto da infilarvi tra esse e passare al corridoio successivo, mentre la porta si richiude dietro di voi. Una volta fuori osservi l\'92uomo e noti che il suo sguardo \'e8 completamente perso, inizia a balbettare mentre grosse lacrime gli solcano le guance, poi la voce si fa pi\'f9 salda ed inizia a raccontare qualcosa, deliri sull\'92esperienza mostruosa che ha subito probabilmente. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \'93\plain \f1\i\lang1033\fs24 Mi chiamo Lou\'85 grazie\'85 grazie per avermi salvato\'85 ma siamo ancora in pericolo\'85 tutti\'85 sono piovuti dal cosmo\'85 li dentro tutti questi mesi li ho potuti sognare\'85 i Mi-Go, i funghi di Plutone\'85 rapiscono certe persone e ne conservano le menti per imparare cose sul nostro mondo ed i corpi\'85 quelli vengono riutilizzati, vuotati di ogni interiora, sono come vestiti\'85 per permettergli di muoversi tra di noi. Ma non \'e8 questo il peggio, dovete capire, sono qui per un motivo, si sono diffusi sotto le nostre citt\'e0 come una peste\'85 ma hanno un unico scopo\'85 dovete avvisare\'85 loro vogliono\'85\plain \f1\lang1033\fs24 \'94. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 All\'92improvviso una strana nebbia inizia ad addensarsi in un angolo alle spalle di Lou e da essa riprende lentamente forma il Segugio di Tindalos che ti inseguiva. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Stai per avvisarlo quando lo sguardo dell\'92uomo si fa vitreo e dalle sue labbra inizia a colare un rivolo di sangue. Vedi la lingua del mostro, innestata alla base del suo cranio, mentre la creatura inizia a cibarsi di lui. Ormai non c\'92\'e8 nulla da fare, guardi ancora per un attimo la scena raccapricciante ed inizi a correre verso il paragrafo <73>.}
+END_STREAM
+15
+
+17*
+FLAGS:0
+BEGIN
+Passano le ore senza che accada nulla e la disperazione sale, fai un tiro sulla tua Psiche, se fallisci perdi 1 PM. Sopraffatto dalla stanchezza ti addormenti ed in uno strano sogno ti sembra ci sia qualcuno alla porta che ti parla ma non riesci mai a raggiungerlo. 
+Al risveglio sei al <17>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Passano le ore senza che accada nulla e la disperazione sale, fai un tiro sulla tua Psiche, se fallisci perdi 1 PM. Sopraffatto dalla stanchezza ti addormenti ed in uno strano sogno ti sembra ci sia qualcuno alla porta che ti parla ma non riesci mai a raggiungerlo. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Al risveglio sei al <17>.}
+END_STREAM
+16
+
+31*19*
+FLAGS:0
+BEGIN
+Il sotterraneo qui si biforca, sulla destra c'è un simbolo strano, curiosamente simile ad un cervello stilizzato, mentre a sinistra un altro disegno potrebbe essere la sagoma di un uomo. 
+Tu cosa decidi di fare? Vai a sinistra al <31> o verso destra al <19>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il sotterraneo qui si biforca, sulla destra c'\'e8 un simbolo strano, curiosamente simile ad un cervello stilizzato, mentre a sinistra un altro disegno potrebbe essere la sagoma di un uomo. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Tu cosa decidi di fare? Vai a sinistra al <31> o verso destra al <19>?}
+END_STREAM
+17
+
+20*21*23*
+FLAGS:0
+BEGIN
+Riapri gli occhi per scoprire che al risveglio la stanza è uguale al giorno prima, tranne una ciotola metallica piena di una sorta di zuppa di carne, poggiata al centro del cubicolo di pietra. 
+Se mangi la poltiglia che ti hanno dato vai al <20>, se getti via il tutto leggi il <21> ma se rimani ad aspettare perso nei tuoi pensieri vai al <23>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Riapri gli occhi per scoprire che al risveglio la stanza \'e8 uguale al giorno prima, tranne una ciotola metallica piena di una sorta di zuppa di carne, poggiata al centro del cubicolo di pietra. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se mangi la poltiglia che ti hanno dato vai al <20>, se getti via il tutto leggi il <21> ma se rimani ad aspettare perso nei tuoi pensieri vai al <23>.}
+END_STREAM
+18
+
+35*24*
+FLAGS:1
+BEGIN
+Due uomini, a quanto pare quelli che ti hanno rapito o i loro fratelli gemelli, ti prendono di peso e ti conducono lungo il corridoio, tra altre celle come la tua, fino ad una porta. Ti buttano nella stanza ed escono, chiudendo con forza la porta alle tue spalle. Nella sala vedi tutto quello che sembra servire per un intervento chirurgico, il lettino, gli attrezzi, manca solo l'aria di igiene e sterilizzazione che uno si aspetterebbe. Tutto è sporco, gli attrezzi sono macchiati di una sostanza scura, forse la stessa che sembra essere schizzata con forza su una delle pareti. Il lettino è in condizioni indescrivibili e dall'odore che aleggia nella stanza sangue ed escrementi si devono essere riversati in questo luogo orribile nel corso di abominevoli operazioni. Sull'altro lato una porta sembra essere l'unica uscita da questa situazione. Almeno prima che arrivi il chirurgo, che probabilmente non hai intenzione di conoscere. 
+Se hai qualcosa da usare per aprirla questo è il momento giusto ?<35>?, altrimenti non ti rimane che andare al paragrafo <24>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Due uomini, a quanto pare quelli che ti hanno rapito o i loro fratelli gemelli, ti prendono di peso e ti conducono lungo il corridoio, tra altre celle come la tua, fino ad una porta. Ti buttano nella stanza ed escono, chiudendo con forza la porta alle tue spalle. Nella sala vedi tutto quello che sembra servire per un intervento chirurgico, il lettino, gli attrezzi, manca solo l'aria di igiene e sterilizzazione che uno si aspetterebbe. Tutto \'e8 sporco, gli attrezzi sono macchiati di una sostanza scura, forse la stessa che sembra essere schizzata con forza su una delle pareti. Il lettino \'e8 in condizioni indescrivibili e dall'odore che aleggia nella stanza sangue ed escrementi si devono essere riversati in questo luogo orribile nel corso di abominevoli operazioni. Sull'altro lato una porta sembra essere l'unica uscita da questa situazione. Almeno prima che arrivi il chirurgo, che probabilmente non hai intenzione di conoscere. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se hai qualcosa da usare per aprirla questo \'e8 il momento giusto ?<35>?, altrimenti non ti rimane che andare al paragrafo <24>.}
+END_STREAM
+19
+
+16*39*
+FLAGS:0
+BEGIN
+Sei in un corridoio tetro, la pietra da cui sono ricavate le pareti stilla umidità e nonostante l'evidente lavoro di edilizia sembra di stare in una grotta. Ti fermi a pensare che direzione prendere, puoi risalire il corridoio al <16> oppure proseguire verso una zona più buia dalla quale arrivano degli strani suoni al <39>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sei in un corridoio tetro, la pietra da cui sono ricavate le pareti stilla umidit\'e0 e nonostante l'evidente lavoro di edilizia sembra di stare in una grotta. Ti fermi a pensare che direzione prendere, puoi risalire il corridoio al <16> oppure proseguire verso una zona pi\'f9 buia dalla quale arrivano degli strani suoni al <39>.}
+END_STREAM
+20
+
+27*
+FLAGS:0
+BEGIN
+Il cibo non è dei migliori e poco dopo aver iniziato un diffuso bruciore ti blocca la digestione obbligandoti a vomitare quel poco che avevi mangiato. Il dolore ed i conati ti costano 1 PF. Mentre cerchi di rialzarti noti sul fondo della ciotola qualcosa che attira la tua attenzione. 
+Esaminala proseguendo al <27>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il cibo non \'e8 dei migliori e poco dopo aver iniziato un diffuso bruciore ti blocca la digestione obbligandoti a vomitare quel poco che avevi mangiato. Il dolore ed i conati ti costano 1 PF. Mentre cerchi di rialzarti noti sul fondo della ciotola qualcosa che attira la tua attenzione. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Esaminala proseguendo al <27>.}
+END_STREAM
+21
+
+27*
+FLAGS:0
+BEGIN
+Lanci via la ciotola stizzito, la carne schizza sul muro di fronte e tra i getti di liquido marrone qualcosa scintilla al paragrafo <27>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\fs20 Lanci via la ciotola stizzito, la carne schizza sul muro di fronte e tra i getti di liquido marrone qualcosa scintilla al paragrafo <27>.}
+END_STREAM
+22
+
+57*
+FLAGS:0
+BEGIN
+Due uomini in camice si avvicinano a te bloccando la strada per l'altra uscita dalla stanza. Devi combatterli, e se sopravvivi scivola al <57>.
+Primo uomo  PF:10  V:PF/2  D:2
+Secondo uomo PF:12  V:PF/2  D:2
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Due uomini in camice si avvicinano a te bloccando la strada per l'altra uscita dalla stanza. Devi combatterli, e se sopravvivi scivola al <57>.
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\b\fs20 Primo uomo\plain \f2\fs20   PF:10  V:PF/2  D:2
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\b\fs20 Secondo uomo\plain \f2\fs20  PF:12  V:PF/2  D:2}
+END_STREAM
+23
+
+18*
+FLAGS:0
+BEGIN
+Passano le ore, forse giorni e perdi completamente il senso del tempo. Di quelle ciotole ne arrivano altre ma le rifiuti e continui a gridare per la tua libertà, ma con sempre meno forza, mentre la disperazione si fa strada consumandoti. Perdi 1 PF ed 1 PM. Alla fine, dopo un tempo che non sai più calcolare, arriva qualcuno. 
+Vai al <18> per scoprire chi è.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Passano le ore, forse giorni e perdi completamente il senso del tempo. Di quelle ciotole ne arrivano altre ma le rifiuti e continui a gridare per la tua libert\'e0, ma con sempre meno forza, mentre la disperazione si fa strada consumandoti. Perdi 1 PF ed 1 PM. Alla fine, dopo un tempo che non sai pi\'f9 calcolare, arriva qualcuno. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Vai al <18> per scoprire chi \'e8.}
+END_STREAM
+24
+
+
+FLAGS:0
+BEGIN
+Ti prendono di peso e ti portano in una sala operatoria. Discutono animatamente tra loro con quelle strane voci ronzanti che percepisci al limite della coscienza e mentre stai scivolando nell'oblio vedi entrare qualcuno o meglio sarebbe dire qualcosa, una forma d'incubo, un incrocio abominevole tra un uomo ed un insetto, con un seghetto chirurgico gocciolante stretto in una delle zampe, il cui ronzio stridulo fa tacere gli altri due. Il suono della sua voce aliena è l'ultima cosa che senti prima che la calotta cranica ti venga staccata di netto ed il cervello estratto delicatamente dal chirurgo. Ma, al contrario di quanto potevi sperare, non sei morto. 
+La tua coscienza è mantenuta in vita in un cilindro metallico mentre sei senza un corpo, senza i sensi umani, ma ancora vivo per i loro esperimenti, che urli senza bocca ne faccia il tuo dolore disumano, finché una follia clemente non ti avvolge, cancellando la tua mente.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Ti prendono di peso e ti portano in una sala operatoria. Discutono animatamente tra loro con quelle strane voci ronzanti che percepisci al limite della coscienza e mentre stai scivolando nell'oblio vedi entrare qualcuno o meglio sarebbe dire qualcosa, una forma d'incubo, un incrocio abominevole tra un uomo ed un insetto, con un seghetto chirurgico gocciolante stretto in una delle zampe, il cui ronzio stridulo fa tacere gli altri due. Il suono della sua voce aliena \'e8 l'ultima cosa che senti prima che la calotta cranica ti venga staccata di netto ed il cervello estratto delicatamente dal chirurgo. Ma, al contrario di quanto potevi sperare, non sei morto. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 La tua coscienza \'e8 mantenuta in vita in un cilindro metallico mentre sei senza un corpo, senza i sensi umani, ma ancora vivo per i loro esperimenti, che urli senza bocca ne faccia il tuo dolore disumano, finch\'e9 una follia clemente non ti avvolge, cancellando la tua mente.}
+END_STREAM
+25
+
+49*41*28*30*31*
+FLAGS:0
+BEGIN
+Alla fine del corridoio trovi una stanza piena di attrezzature ed alambicchi gorgoglianti. Ci sono diversi banchi ricolmi di materiale scientifico ed oltre a questi una porta. Scegli di esaminare il raccoglitore di provette chimiche al <49>, preferisci il banco ricoperto da attrezzi scientifici al <41>, controlli l'armadio al <28>, prosegui verso la porta oltre i banchi al <30> oppure torni indietro verso il paragrafo <31>? 
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Alla fine del corridoio trovi una stanza piena di attrezzature ed alambicchi gorgoglianti. Ci sono diversi banchi ricolmi di materiale scientifico ed oltre a questi una porta. Scegli di esaminare il raccoglitore di provette chimiche al <49>, preferisci il banco ricoperto da attrezzi scientifici al <41>, controlli l'armadio al <28>, prosegui verso la porta oltre i banchi al <30> oppure torni indietro verso il paragrafo <31>? }
+END_STREAM
+26
+
+12*58*
+FLAGS:0
+BEGIN
+Non fai in tempo a muoverti che qualcosa di grosso ti si avventa contro. Vedi solo una macchia d'oscurità muoversi e tenti di evitarla con un tiro sulla Velocità. Se riesci la schivi indenne e continua al <12> altrimenti sei costretto a combatterla, qualsiasi cosa sia al <58>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\fs20 Non fai in tempo a muoverti che qualcosa di grosso ti si avventa contro. Vedi solo una macchia d'oscurit\'e0 muoversi e tenti di evitarla con un tiro sulla Velocit\'e0. Se riesci la schivi indenne e continua al <12> altrimenti sei costretto a combatterla, qualsiasi cosa sia al <58>.}
+END_STREAM
+27
+
+51*23*
+FLAGS:0
+BEGIN
+C'è una chiave con una piccola targhetta su cui c'è scritto 17. Provi ad usarla per aprire la porta della cella al <51> o la tieni da parte attendendo un'occasione migliore al <23>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 C'\'e8 una chiave con una piccola targhetta su cui c'\'e8 scritto 17. Provi ad usarla per aprire la porta della cella al <51> o la tieni da parte attendendo un'occasione migliore al <23>?}
+END_STREAM
+28
+
+25*
+FLAGS:0
+BEGIN
+Nell'armadio trovi una lunga veste da laboratorio, una mascherina per la bocca ed una targhetta sulla veste con il numero 6. 
+Prendi tutto e vai al <25>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Nell'armadio trovi una lunga veste da laboratorio, una mascherina per la bocca ed una targhetta sulla veste con il numero 6. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Prendi tutto e vai al <25>.}
+END_STREAM
+29
+
+25*
+FLAGS:0
+BEGIN
+Sposti le provette usando con attenzione le pinze da laboratorio e dietro trovi un biglietto con un appunto. C'è scritto un numero, 1741. 
+Prosegui la tua indagine al <25>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sposti le provette usando con attenzione le pinze da laboratorio e dietro trovi un biglietto con un appunto. C'\'e8 scritto un numero, 1741. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Prosegui la tua indagine al <25>.}
+END_STREAM
+30
+
+22*36*
+FLAGS:1
+BEGIN
+Sei arrivato davanti alla porta. Puoi entrare subito così come sei proseguendo al <22> o preferisci prima usare qualcosa?<36>??
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sei arrivato davanti alla porta. Puoi entrare subito cos\'ec come sei proseguendo al <22> o preferisci prima usare qualcosa?<36>??}
+END_STREAM
+31
+
+33*38*16*25*16*
+FLAGS:0
+BEGIN
+Stai seguendo il corridoio quando una creatura informe si stacca dal soffitto e cade a terra davanti a te con un suono liquido come di una bolla che scoppia, ridotta ad una pozza giallastra di sostanza organica. Stai per passare oltre ma dalla polla maleodorante inizia a ricomporsi, simile ad una grossa medusa gelatinosa muovendosi lentamente facendo ondeggiare dei lunghi tentacoli. 
+Scegli di combatterla al <33>, cerchi di evitarla al <38> oppure torni indietro leggendo il <16>? 
+(Se non è la prima volta che percorri questo tratto ed hai già sconfitto la creatura puoi proseguire al <25> o tornare indietro al <16>).
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Stai seguendo il corridoio quando una creatura informe si stacca dal soffitto e cade a terra davanti a te con un suono liquido come di una bolla che scoppia, ridotta ad una pozza giallastra di sostanza organica. Stai per passare oltre ma dalla polla maleodorante inizia a ricomporsi, simile ad una grossa medusa gelatinosa muovendosi lentamente facendo ondeggiare dei lunghi tentacoli. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Scegli di combatterla al <33>, cerchi di evitarla al <38> oppure torni indietro leggendo il <16>? 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 (Se non \'e8 la prima volta che percorri questo tratto ed hai gi\'e0 sconfitto la creatura puoi proseguire al <25> o tornare indietro al <16>).}
+END_STREAM
+32
+
+9*
+FLAGS:0
+BEGIN
+Con tutto quello che ti sei lasciato alle spalle è chiaro che stanno arrivando a prenderti ed a giudicare dai suoni che giungono dai corridoi ci deve essere qualcosa di grosso sulle tue tracce. 
+Prosegui velocemente al <9>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Con tutto quello che ti sei lasciato alle spalle \'e8 chiaro che stanno arrivando a prenderti ed a giudicare dai suoni che giungono dai corridoi ci deve essere qualcosa di grosso sulle tue tracce. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Prosegui velocemente al <9>.}
+END_STREAM
+33
+
+25*
+FLAGS:0
+BEGIN
+Cerchi di sconfiggere questa sorta di parassita alieno:
+
+Parassita PF:18  V:PF/2-2  D:2
+
+Se riesci a vincere vai al <25> ma prima, mentre il corpo del parassita inizia a sciogliersi, raccogli da terra quello che sembra essere un osso mezzo digerito, che a parte lo schifo iniziale ti fornisce un bonus di +1 al combattimento.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Cerchi di sconfiggere questa sorta di parassita alieno:
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\b\fs20 Parassita\plain \f2\fs20  PF:18  V:PF/2-2  D:2
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se riesci a vincere vai al <25> ma prima, mentre il corpo del parassita inizia a sciogliersi, raccogli da terra quello che sembra essere un osso mezzo digerito, che a parte lo schifo iniziale ti fornisce un bonus di +1 al combattimento.}
+END_STREAM
+34
+
+37*22*
+FLAGS:1
+BEGIN
+Abbassi la maniglia ma la porta non si vuole aprire. Mentre le creature continuano a ronzare ed iniziano ad avvicinarsi noti una sequenza di nove tasti numerati sovrastati da un codice: +/+.
+Potresti aver trovato un indizio che, assieme al codice ti consente di inserire il numero corretto ?<37>?. 
+In questo caso somma tale valore a quello del paragrafo per sapere se riesci a passare oltre, altrimenti devi combattere le creature al <22>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Abbassi la maniglia ma la porta non si vuole aprire. Mentre le creature continuano a ronzare ed iniziano ad avvicinarsi noti una sequenza di nove tasti numerati sovrastati da un codice: +/+.
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Potresti aver trovato un indizio che, assieme al codice ti consente di inserire il numero corretto ?<37>?. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 In questo caso somma tale valore a quello del paragrafo per sapere se riesci a passare oltre, altrimenti devi combattere le creature al <22>.}
+END_STREAM
+35
+
+40*45*
+FLAGS:1
+BEGIN
+La chiave funziona, apri la porta e ti muovi velocemente nella prossima stanza chiudendola dietro di te. Ti fermi ad osservare l'ambiente in cui ti trovi: c'è una lunga scrivania ricoperta di incartamenti sparsi, un grande armadio pieno di raccoglitori numerati e dall'altro lato una porta aperta. 
+Esamini le carte al <40> o esci in fretta al <45>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 La chiave funziona, apri la porta e ti muovi velocemente nella prossima stanza chiudendola dietro di te. Ti fermi ad osservare l'ambiente in cui ti trovi: c'\'e8 una lunga scrivania ricoperta di incartamenti sparsi, un grande armadio pieno di raccoglitori numerati e dall'altro lato una porta aperta. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Esamini le carte al <40> o esci in fretta al <45>?}
+END_STREAM
+36
+
+42*
+FLAGS:1
+BEGIN
+Indossi il camice e la mascherina ed entri nella stanza cercando di sembrare a tuo agio ma i due uomini, intenti a lavorare ai bancali di provette, si girano subito ad osservarti. Tenti di evitare di incrociare lo sguardo ma non puoi fare a meno di notare qualcosa di orribile: sotto gli abiti umani si celano delle creature da incubo, dal volto simile agli insetti. A fianco delle postazioni lavorative noti delle maschere color carne, che riproducono i volti degli uomini che ti hanno rapito, identici inoltre a quelli visti nel corridoio. Ma queste creature hanno invece una massa enorme di piccoli occhi esagonali di un verde lucido, simili alle mosche viste al microscopio, ed emettono un ronzio continuo, probabilmente comunicando tra di loro. 
+Devi fare un tiro su Psiche e se fallisci sei colto dal terrore e perdi 1 PM. 
+Comunque vada scivoli senza fare troppo rumore al <42>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Indossi il camice e la mascherina ed entri nella stanza cercando di sembrare a tuo agio ma i due uomini, intenti a lavorare ai bancali di provette, si girano subito ad osservarti. Tenti di evitare di incrociare lo sguardo ma non puoi fare a meno di notare qualcosa di orribile: sotto gli abiti umani si celano delle creature da incubo, dal volto simile agli insetti. A fianco delle postazioni lavorative noti delle maschere color carne, che riproducono i volti degli uomini che ti hanno rapito, identici inoltre a quelli visti nel corridoio. Ma queste creature hanno invece una massa enorme di piccoli occhi esagonali di un verde lucido, simili alle mosche viste al microscopio, ed emettono un ronzio continuo, probabilmente comunicando tra di loro. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Devi fare un tiro su \plain \f2\b\fs20 Psiche\plain \f2\fs20  e se fallisci sei colto dal terrore e perdi 1 PM. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Comunque vada scivoli senza fare troppo rumore al <42>.}
+END_STREAM
+37
+
+32*22*
+FLAGS:1
+BEGIN
+Per un soffio! Apri la porta e la richiudi rapidamente alle tue spalle. Non hai molto tempo, oltre il vetro vedi quelle strane creature farsi strada lentamente nella tua direzione, devi bloccare la porta. Tira 4d6 sui tuoi PF. Hai tre tentativi, se ce la fai almeno in uno sposti un pesante mobile contro la porta e continua al <32> altrimenti riescono ad aprirla e ti trascinano nell'altra stanza al <22>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Per un soffio! Apri la porta e la richiudi rapidamente alle tue spalle. Non hai molto tempo, oltre il vetro vedi quelle strane creature farsi strada lentamente nella tua direzione, devi bloccare la porta. Tira 4d6 sui tuoi PF. Hai tre tentativi, se ce la fai almeno in uno sposti un pesante mobile contro la porta e continua al <32> altrimenti riescono ad aprirla e ti trascinano nell'altra stanza al <22>.}
+END_STREAM
+38
+
+25*33*
+FLAGS:0
+BEGIN
+Per sfuggirle ti serve vincere sulla Velocità. Se riesci nell'impresa corri al <25> altrimenti sei troppo lento ed un tentacolo ti sfiora il braccio. Il bruciore intenso ti toglie 1 PF e devi combattere al <33>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Per sfuggirle ti serve vincere sulla \plain \f2\b\fs20 Velocit\'e0\plain \f2\fs20 . Se riesci nell'impresa corri al <25> altrimenti sei troppo lento ed un tentacolo ti sfiora il braccio. Il bruciore intenso ti toglie 1 PF e devi combattere al <33>.}
+END_STREAM
+39
+
+50*19*
+FLAGS:0
+BEGIN
+Cammini accompagnato solamente dal suono ritmato dei tuoi passi sul pavimento di cemento, finché non raggiungi un punto in cui il corridoio inizia a scendere verso una sorta di cripta umida, scavata nella roccia. 
+T'inoltri nel buio sotterraneo al <50> o torni sui tuoi passi al <19>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Cammini accompagnato solamente dal suono ritmato dei tuoi passi sul pavimento di cemento, finch\'e9 non raggiungi un punto in cui il corridoio inizia a scendere verso una sorta di cripta umida, scavata nella roccia. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 T'inoltri nel buio sotterraneo al <50> o torni sui tuoi passi al <19>?}
+END_STREAM
+40
+
+45*
+FLAGS:0
+BEGIN
+Sono tutti documenti che riguardano cittadini della tua stessa zona, come riportato dalle singole schede, apparentemente persone senza alcun legame tra loro. Ci sono persone di spicco nella comunità, il sindaco, il capo della polizia e molti che ricoprono cariche di alto livello in varie aziende tecnologiche, come del resto la Global-Tech. 
+Noti inoltre che alcune schede hanno l'intestazione di una strana azienda, la Pickman & G Inc. che non hai mai sentito nominare. I nomi in quel caso sembrano rappresentare persone che lavorano o collaborano con quell'azienda. In un foglio poggiato sopra uno dei raccoglitori aperti trovi anche la tua scheda, e noti una data aggiunta a mano alla voce "estrazione", proprio la data di oggi!
+Controllando la scrivania trovi un tagliacarte abbastanza robusto che ti fornisce un  +1 di bonus in combattimento ed una boccetta con un unguento marca Kadath che secondo le istruzioni guarisce 6 PF a dose e tu ne puoi usare ben 3, anche durante i combattimenti e delle pastiglie di tranquillante Yaggath (sembra si possa usare per recuperare 2 PM per ognuna delle due pasticche rimaste). 
+Prosegui al <45>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\qj\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sono tutti documenti che riguardano cittadini della tua stessa zona, come riportato dalle singole schede, apparentemente persone senza alcun legame tra loro. Ci sono persone di spicco nella comunit\'e0, il sindaco, il capo della polizia e molti che ricoprono cariche di alto livello in varie aziende tecnologiche, come del resto la Global-Tech. 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Noti inoltre che alcune schede hanno l'intestazione di una strana azienda, la Pickman & G Inc. che non hai mai sentito nominare. I nomi in quel caso sembrano rappresentare persone che lavorano o collaborano con quell'azienda. In un foglio poggiato sopra uno dei raccoglitori aperti trovi anche la tua scheda, e noti una data aggiunta a mano alla voce "estrazione", proprio la data di oggi!
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Controllando la scrivania trovi un tagliacarte abbastanza robusto che ti fornisce un  +1 di bonus in combattimento ed una boccetta con un unguento marca Kadath che secondo le istruzioni guarisce 6 PF a dose e tu ne puoi usare ben 3, anche durante i combattimenti e delle pastiglie di \plain \f3\lang1033\fs20 tranquillante Yaggath (sembra si possa usare per recuperare 2 PM per ognuna delle due pasticche rimaste). 
+\par \pard\fi0\li0\qj\ri0\sb0\sa0\itap0 Prosegui al <45>.}
+END_STREAM
+41
+
+29*28*25*
+FLAGS:0
+BEGIN
+Sul banco trovi delle lunghe pinze metalliche fatte per spostare le provette chimiche e diversi attrezzi simili a bisturi apparentemente molto affilati. Il bisturi più grosso puoi tenerlo con te per avere un bonus di +2 al combattimento. 
+Esamini le provette al <29>, l'armadio al <28> o torni indietro verso il <25>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sul banco trovi delle lunghe pinze metalliche fatte per spostare le provette chimiche e diversi attrezzi simili a bisturi apparentemente molto affilati. Il bisturi pi\'f9 grosso puoi tenerlo con te per avere un bonus di +2 al combattimento. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Esamini le provette al <29>, l'armadio al <28> o torni indietro verso il <25>?}
+END_STREAM
+42
+
+34*22*
+FLAGS:0
+BEGIN
+Quando sei alla porta una delle due creature emette un forte ronzio, indicando te. Tira sulla tua Velocità, se hai successo riesci a balzare e raggiungere la maniglia e continuare al <34> altrimenti inciampi nel tentativo di uscire dalla stanza e cadendo batti la testa perdendo 1 PF ed 1 PM e la mascherina che ti proteggeva il viso scivola via. Le creature si rendono conto che sei un intruso e si dirigono verso di te al <22>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Quando sei alla porta una delle due creature emette un forte ronzio, indicando te. Tira sulla tua \plain \f2\b\fs20 Velocit\'e0\plain \f2\fs20 , se hai successo riesci a balzare e raggiungere la maniglia e continuare al <34> altrimenti inciampi nel tentativo di uscire dalla stanza e cadendo batti la testa perdendo 1 PF ed 1 PM e la mascherina che ti proteggeva il viso scivola via. Le creature si rendono conto che sei un intruso e si dirigono verso di te al <22>.}
+END_STREAM
+43
+
+70*79*
+FLAGS:0
+BEGIN
+Raccogli il cilindro e lo infili in quella sorta di zaino che poi cerchi di adattare alla schiena mentre la voce metallica continua a riecheggiare nella tua mente, una cosa che potrà essere utile, ma sicuramente non confortante. 
+Tira sulla tua Psiche, se non passi il tiro perdi 1 PM. Se vai a zero vai al <70>, altrimenti noti sotto il cilindro un cartoncino con scritto 11 e prosegui al <79>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Raccogli il cilindro e lo infili in quella sorta di zaino che poi cerchi di adattare alla schiena mentre la voce metallica continua a riecheggiare nella tua mente, una cosa che potr\'e0 essere utile, ma sicuramente non confortante. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Tira sulla tua \plain \f2\b\fs20 Psiche\plain \f2\fs20 , se non passi il tiro perdi 1 PM. Se vai a zero vai al <70>, altrimenti noti sotto il cilindro un cartoncino con scritto 11 e prosegui al <79>.}
+END_STREAM
+44
+
+79*70*
+FLAGS:0
+BEGIN
+Una strana pressione inizia a farsi strada nel tuo cervello, mentre tocchi il contenitore metallico, senti una presenza che s'insinua tra i tuoi pensieri. Una marea d'immagini terrificanti inonda la tua mente, incapace di resistere a tale potenza. Intravedi sacrifici umani in giungle immense, altari di pietra circondati da colonne che svettano fino a cieli dai colori impossibili, corti di creature incappucciate dalle movenze blasfeme e disumane. Cerchi  di staccarti dal cilindro ma le mani sembrano incollate alla superficie. 
+Tira sulla tua Psiche, se vinci ti stacchi dal cilindro <79> altrimenti perdi un punto di PM e devi ritentare il tiro (se sei a zero vai al <70>).
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Una strana pressione inizia a farsi strada nel tuo cervello, mentre tocchi il contenitore metallico, senti una presenza che s'insinua tra i tuoi pensieri. Una marea d'immagini terrificanti inonda la tua mente, incapace di resistere a tale potenza. Intravedi sacrifici umani in giungle immense, altari di pietra circondati da colonne che svettano fino a cieli dai colori impossibili, corti di creature incappucciate dalle movenze blasfeme e disumane. Cerchi  di staccarti dal cilindro ma le mani sembrano incollate alla superficie. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Tira sulla tua \plain \f2\b\fs20 Psiche\plain \f2\fs20 , se vinci ti stacchi dal cilindro <79> altrimenti perdi un punto di PM e devi ritentare il tiro (se sei a zero vai al <70>).}
+END_STREAM
+45
+
+19*
+FLAGS:0
+BEGIN
+Da lontano senti arrivare un vociare animato e qualcosa ti colpisce nel tono di alcune voci. E' come se nei discorsi s'insinuasse ogni tanto una sorta di ronzio amplificato e distorto, acuto ai limiti del sopportabile e variabile, come se cercasse di imitare una forma di comunicazione. Ti muovi lungo il corridoio fino ad una porta che si rivela per fortuna aperta. 
+Prosegui verso un bivio al <19> consapevole di non poter più tornare sui tuoi passi.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Da lontano senti arrivare un vociare animato e qualcosa ti colpisce nel tono di alcune voci. E' come se nei discorsi s'insinuasse ogni tanto una sorta di ronzio amplificato e distorto, acuto ai limiti del sopportabile e variabile, come se cercasse di imitare una forma di comunicazione. Ti muovi lungo il corridoio fino ad una porta che si rivela per fortuna aperta. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Prosegui verso un bivio al <19> consapevole di non poter pi\'f9 tornare sui tuoi passi.}
+END_STREAM
+46
+
+79*52*66*
+FLAGS:0
+BEGIN
+E' un lungo corridoio dal soffitto a volta e molto ampio, fiocamente illuminato da alcuni neon che devono essere troppo vecchi da ormai troppo tempo. Ai lati riesci ad intravedere numerose nicchie che si perdono nel buio. 
+Le esamini con più attenzione al <79>, prosegui nel corridoio al <52> o torni indietro verso il <66>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 E' un lungo corridoio dal soffitto a volta e molto ampio, fiocamente illuminato da alcuni neon che devono essere troppo vecchi da ormai troppo tempo. Ai lati riesci ad intravedere numerose nicchie che si perdono nel buio. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Le esamini con pi\'f9 attenzione al <79>, prosegui nel corridoio al <52> o torni indietro verso il <66>?}
+END_STREAM
+47
+
+63*66*
+FLAGS:0
+BEGIN
+T'inoltri nel breve corridoio, alla fine del quale c'è solo una strana porta murata, con un simbolo a forma di triangolo incavato nella pietra sul lato destro. Ai piedi della porta trovi un cadavere in uno stato di avanzata putrefazione, il cranio deve essere stato sfondato probabilmente da un colpo inferto con qualcosa di grosso, a giudicare dallo stato in cui si trova. 
+Sfidi il disgusto ed esamini il corpo al <63> o torni indietro verso il <66>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 T'inoltri nel breve corridoio, alla fine del quale c'\'e8 solo una strana porta murata, con un simbolo a forma di triangolo incavato nella pietra sul lato destro. Ai piedi della porta trovi un cadavere in uno stato di avanzata putrefazione, il cranio deve essere stato sfondato probabilmente da un colpo inferto con qualcosa di grosso, a giudicare dallo stato in cui si trova. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Sfidi il disgusto ed esamini il corpo al <63> o torni indietro verso il <66>.}
+END_STREAM
+48
+
+81*
+FLAGS:0
+BEGIN
+Al centro della stanza una strana creatura antropomorfa è inginocchiata su un altare completamente nero, nel quale sono incastonate pietre di un colore verdastro, che emanano una luminescenza pulsante. Come entri si gira verso di te con uno scatto, distogliendo l'attenzione dal corpo umano di cui si stava nutrendo. Il muso, dal quale si diramano numerosi tentacoli che fremono avvertendo la tua presenza, si apre in un urlo stridulo che rivela numerose fauci concentriche grondanti sangue, pronte per assaggiare la tua carne. 
+Non puoi fare altro che combattere.
+
+Golgath PF:12  V:PF/2  D:3
+
+Se riesci a massacrarla come merita vai al <81> altrimenti diventi il suo prossimo pasto, in quella catacomba infernale.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Al centro della stanza una strana creatura antropomorfa \'e8 inginocchiata su un altare completamente nero, nel quale sono incastonate pietre di un colore verdastro, che emanano una luminescenza pulsante. Come entri si gira verso di te con uno scatto, distogliendo l'attenzione dal corpo umano di cui si stava nutrendo. Il muso, dal quale si diramano numerosi tentacoli che fremono avvertendo la tua presenza, si apre in un urlo stridulo che rivela numerose fauci concentriche grondanti sangue, pronte per assaggiare la tua carne. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Non puoi fare altro che combattere.
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\b\fs20 Golgath\plain \f2\fs20  PF:12  V:PF/2  D:3
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se riesci a massacrarla come merita vai al <81> altrimenti diventi il suo prossimo pasto, in quella catacomba infernale.}
+END_STREAM
+49
+
+25*
+FLAGS:0
+BEGIN
+Toccando le provette ne urti una e la sostanza ti cade sulla mano, bruciandoti la carne e facendoti perdere 2 PF. 
+Ti ritrai dolorante e torni al <25>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Toccando le provette ne urti una e la sostanza ti cade sulla mano, bruciandoti la carne e facendoti perdere 2 PF. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Ti ritrai dolorante e torni al <25>.}
+END_STREAM
+50
+
+66*
+FLAGS:0
+BEGIN
+Scendi i gradini verso la cripta osservando i geroglifici incisi sulle pareti. Non hai nessuna conoscenza di archeologia ma di sicuro non hai mai visto nulla del genere. Ci sono grandi immagini di esseri che sorgono dal mare, circondate da nugoli di simboli molto più piccoli che forse narrano una storia. 
+Prosegui fino al <66>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Scendi i gradini verso la cripta osservando i geroglifici incisi sulle pareti. Non hai nessuna conoscenza di archeologia ma di sicuro non hai mai visto nulla del genere. Ci sono grandi immagini di esseri che sorgono dal mare, circondate da nugoli di simboli molto pi\'f9 piccoli che forse narrano una storia. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Prosegui fino al <66>.}
+END_STREAM
+51
+
+23*
+FLAGS:0
+BEGIN
+Provi e riprovi, desideri ardentemente che sia la chiave giusta ma dopo molti tentativi infruttuosi, temendo di poterla spezzare e renderla inutilizzabile, ci rinunci. 
+Non ti rimane che attendere al <23>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Provi e riprovi, desideri ardentemente che sia la chiave giusta ma dopo molti tentativi infruttuosi, temendo di poterla spezzare e renderla inutilizzabile, ci rinunci. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Non ti rimane che attendere al <23>.}
+END_STREAM
+52
+
+61*46*
+FLAGS:1
+BEGIN
+Il corridoio finisce contro un grande portale metallico. A fianco c'è una curiosa incavatura a forma di stella a cinque punte. 
+Se hai qualcosa che possa adattarsi utilizzalo ?<61>?, altrimenti non ti rimane che tornare indietro verso il <46>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il corridoio finisce contro un grande portale metallico. A fianco c'\'e8 una curiosa incavatura a forma di stella a cinque punte. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se hai qualcosa che possa adattarsi utilizzalo ?<61>?, altrimenti non ti rimane che tornare indietro verso il <46>.}
+END_STREAM
+53
+
+14*
+FLAGS:0
+BEGIN
+La teca di vetro si apre facendo fuoriuscire il liquido che trascina con se il corpo che era all'interno. Dopo un attimo di immobilità l'uomo inizia ad alzarsi sulle ginocchia e guarda nella tua direzione, mentre la creatura, colpita dalla luce sempre più forte emanata dalla base della teca, inizia a ritrarsi verso l'ingresso della stanza. L'uomo si rialza e si muove barcollando, simile ad uno zombie. Ti osserva ancora, con lo sguardo che si fa rapidamente più vivo, e dopo un'ultima esitazione inizia a muoversi nella tua direzione. 
+Potrebbe essere una nuova mostruosità, ma non ti rimane molto tempo, così decidi di chiedergli di darti una mano con la porta al <14>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 La teca di vetro si apre facendo fuoriuscire il liquido che trascina con se il corpo che era all'interno. Dopo un attimo di immobilit\'e0 l'uomo inizia ad alzarsi sulle ginocchia e guarda nella tua direzione, mentre la creatura, colpita dalla luce sempre pi\'f9 forte emanata dalla base della teca, inizia a ritrarsi verso l'ingresso della stanza. L'uomo si rialza e si muove barcollando, simile ad uno zombie. Ti osserva ancora, con lo sguardo che si fa rapidamente pi\'f9 vivo, e dopo un'ultima esitazione inizia a muoversi nella tua direzione. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Potrebbe essere una nuova mostruosit\'e0, ma non ti rimane molto tempo, cos\'ec decidi di chiedergli di darti una mano con la porta al <14>.}
+END_STREAM
+54
+
+44*
+FLAGS:0
+BEGIN
+Per scoprire cosa ti accade devi leggere il <44>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Per scoprire cosa ti accade devi leggere il <44>.}
+END_STREAM
+55
+
+
+FLAGS:0
+BEGIN
+La tua risposta non sembra essere stata gradita dal Guardiano. Il potere dell'entità è soverchiante, la tua stessa natura è pura immaginazione davanti alla miriade di dimensioni di cui essa è parte. Solo il caos cieco al centro dell'universo può dominarla, mentre i poveri e deboli esseri umani come te sono destinati ad impazzire completamente.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 La tua risposta non sembra essere stata gradita dal Guardiano. Il potere dell'entit\'e0 \'e8 soverchiante, la tua stessa natura \'e8 pura immaginazione davanti alla miriade di dimensioni di cui essa \'e8 parte. Solo il caos cieco al centro dell'universo pu\'f2 dominarla, mentre i poveri e deboli esseri umani come te sono destinati ad impazzire completamente.}
+END_STREAM
+56
+
+53*
+FLAGS:0
+BEGIN
+La porta è troppo pesante e si muove appena mentre la spingi. Alle tue spalle la luce diventa ancora più intensa e mentre ti giri a guardare indietro vedi il corpo nella teca agitarsi al ritmo delle scariche che lo risalgono. La creatura si muove ondeggiando la lunga lingua, sicura ormai del pasto imminente. 
+Prova a scappare al <53>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 La porta \'e8 troppo pesante e si muove appena mentre la spingi. Alle tue spalle la luce diventa ancora pi\'f9 intensa e mentre ti giri a guardare indietro vedi il corpo nella teca agitarsi al ritmo delle scariche che lo risalgono. La creatura si muove ondeggiando la lunga lingua, sicura ormai del pasto imminente. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Prova a scappare al <53>.}
+END_STREAM
+57
+
+32*
+FLAGS:0
+BEGIN
+Con un ultimo colpo anche la seconda creatura crolla al suolo, distesa in una pozza di icore verdastro. Esamini i loro corpi senza trovare nulla di interessante, ma sui banchi di lavoro trovi un seghetto da ossa, che vale +3 nei combattimenti ed una boccetta di unguento curativo Kadath (due dosi da 6 PF ciascuna). 
+Felice di poter fare più danni ai tuoi carcerieri vai al <32>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Con un ultimo colpo anche la seconda creatura crolla al suolo, distesa in una pozza di icore verdastro. Esamini i loro corpi senza trovare nulla di interessante, ma sui banchi di lavoro trovi un seghetto da ossa, che vale +3 nei combattimenti ed una boccetta di unguento curativo Kadath (due dosi da 6 PF ciascuna). 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Felice di poter fare pi\'f9 danni ai tuoi carcerieri vai al <32>.}
+END_STREAM
+58
+
+
+FLAGS:0
+BEGIN
+Il Segugio ti raggiunge e ti azzanna mentre la sua lunga lingua rossastra entra nella tua carne, spargendo dolore in tutto il corpo. Ti dimeni e cerchi di fuggire, ma ormai è tutto inutile, la presa delle sue mascelle è impressionante e senti la vita sfuggirti dal corpo senza riuscire a fare nulla per evitarlo. 
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Il Segugio ti raggiunge e ti azzanna mentre la sua lunga lingua rossastra entra nella tua carne, spargendo dolore in tutto il corpo. Ti dimeni e cerchi di fuggire, ma ormai \'e8 tutto inutile, la presa delle sue mascelle \'e8 impressionante e senti la vita sfuggirti dal corpo senza riuscire a fare nulla per evitarlo. }
+END_STREAM
+59
+
+55*
+FLAGS:0
+BEGIN
+Per conoscere la tua sorte corri al <55>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Per conoscere la tua sorte corri al <55>.}
+END_STREAM
+60
+
+43*79*
+FLAGS:0
+BEGIN
+Una strana sensazione ti percorre le membra, mentre tocchi il contenitore metallico, ed avverti una presenza che s'insinua tra i tuoi pensieri. Una marea d'immagini terrificanti inonda la tua mente, incapace di resistere a tale potenza. Tra le immagini che ti soverchiano emerge una voce che ti chiede di essere ascoltata, ti dice di raccogliere il cilindro e tenerlo con te. C'è una sorta di tracolla sul fondo della nicchia, suggerisce, raccoglimi e portami con te. 
+Lo ascolti al <43> o ti ritrai disgustato e ritorni indietro verso il <79>?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Una strana sensazione ti percorre le membra, mentre tocchi il contenitore metallico, ed avverti una presenza che s'insinua tra i tuoi pensieri. Una marea d'immagini terrificanti inonda la tua mente, incapace di resistere a tale potenza. Tra le immagini che ti soverchiano emerge una voce che ti chiede di essere ascoltata, ti dice di raccogliere il cilindro e tenerlo con te. C'\'e8 una sorta di tracolla sul fondo della nicchia, suggerisce, raccoglimi e portami con te. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Lo ascolti al <43> o ti ritrai disgustato e ritorni indietro verso il <79>?}
+END_STREAM
+61
+
+70*62*69*76*59*
+FLAGS:1
+BEGIN
+Inserisci la stella nella fessura ed attendi ansioso ma nulla sembra succedere. Dopo diversi minuti decidi di tornare sui tuoi passi, quando la roccia del portale si tramuta in una vasta parete di luce che ti avvolge completamente. Riapri gli occhi nel nulla dello spazio, sospeso tra i piani dimensionali dove una congerie informe di bolle traslucide sciama attorno a te. Le bolle spariscono e si ricreano, si combinano e si fondono, creando una figura che prende via via concretezza finché davanti ai tuoi occhi non ti ritrovi un essere incappucciato alto almeno 3 metri, di cui non riesci a scorgere i lineamenti. La sua voce si sparge nella tua mente come il fuoco, bruciante ed imponente, aliena oltre ogni limite, facendoti perdere 1 PM (se sei a zero vai al <70>).
+Ti chiede il numero dei tuoi cervelli. 
+Puoi dirgli che ne hai uno solo al <62>, che ne hai due al <69>, tre al <76> oppure tentare con un nessuno al <59>. 
+Ma di sicuro qualcosa gli devi rispondere.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Inserisci la stella nella fessura ed attendi ansioso ma nulla sembra succedere. Dopo diversi minuti decidi di tornare sui tuoi passi, quando la roccia del portale si tramuta in una vasta parete di luce che ti avvolge completamente. Riapri gli occhi nel nulla dello spazio, sospeso tra i piani dimensionali dove una congerie informe di bolle traslucide sciama attorno a te. Le bolle spariscono e si ricreano, si combinano e si fondono, creando una figura che prende via via concretezza finch\'e9 davanti ai tuoi occhi non ti ritrovi un essere incappucciato alto almeno 3 metri, di cui non riesci a scorgere i lineamenti. La sua voce si sparge nella tua mente come il fuoco, bruciante ed imponente, aliena oltre ogni limite, facendoti perdere 1 PM (se sei a zero vai al <70>).
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Ti chiede il numero dei tuoi cervelli. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Puoi dirgli che ne hai uno solo al <62>, che ne hai due al <69>, tre al <76> oppure tentare con un nessuno al <59>. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Ma di sicuro qualcosa gli devi rispondere.}
+END_STREAM
+62
+
+55*
+FLAGS:0
+BEGIN
+Il Guardiano della Soglia ti osserva attentamente ed inizia a parlare in una lingua sconosciuta, le sue parole fanno scempio della tua mente e ti mandano al <55>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il \plain \f2\b\fs20 Guardiano della Soglia \plain \f2\fs20 ti osserva attentamente ed inizia a parlare in una lingua sconosciuta, le sue parole fanno scempio della tua mente e ti mandano al <55>.}
+END_STREAM
+63
+
+70*66*
+FLAGS:0
+BEGIN
+Per lo schifo di cercare in quella poltiglia maleodorante rischi la tua sanità mentale, tira sulla tua Psiche e se fallisci perdi 1 PM e se vai a zero corri al <70>. Nella tasca dei pantaloni trovi una curiosa roccia che emette luce, la puoi usare per illuminare gli ambienti. 
+Finito il macabro compito ritorni al <66>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Per lo schifo di cercare in quella poltiglia maleodorante rischi la tua sanit\'e0 mentale, tira sulla tua Psiche e se fallisci perdi 1 PM e se vai a zero corri al <70>. Nella tasca dei pantaloni trovi una curiosa roccia che emette luce, la puoi usare per illuminare gli ambienti. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Finito il macabro compito ritorni al <66>.}
+END_STREAM
+64
+
+58*65*
+FLAGS:0
+BEGIN
+La stanchezza inizia a farsi sentire. I muscoli ti dolgono e respirare in quel sotterraneo è sempre più difficile. Perdi 1 PF (se sei a zero vai al <58>) e prosegui a stento al <65>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 La stanchezza inizia a farsi sentire. I muscoli ti dolgono e respirare in quel sotterraneo \'e8 sempre pi\'f9 difficile. Perdi 1 PF (se sei a zero vai al <58>) e prosegui a stento al <65>.}
+END_STREAM
+65
+
+70*72*
+FLAGS:0
+BEGIN
+Avanzi lungo quel corridoio per un tempo che non sai misurare, mentre la grotta si fa più bassa e le pareti più strette, ti senti soffocare da un feroce attacco di claustrofobia. Tira sulla tua Psiche, se fallisci il tiro perdi 1 PM (se sei a 0 ti aspetta il <70>). Ti fermi a respirare e i passi alle tue spalle sono inequivocabili. Ti giri e sai già cosa vedrai. E' indebolito ma negli occhi la brama per la tua carne è bruciante e sembra un'inesauribile spinta per la bestia. 
+Il Segugio ti si avventa contro al <72>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Avanzi lungo quel corridoio per un tempo che non sai misurare, mentre la grotta si fa pi\'f9 bassa e le pareti pi\'f9 strette, ti senti soffocare da un feroce attacco di claustrofobia. Tira sulla tua Psiche, se fallisci il tiro perdi 1 PM (se sei a 0 ti aspetta il <70>). Ti fermi a respirare e i passi alle tue spalle sono inequivocabili. Ti giri e sai gi\'e0 cosa vedrai. E' indebolito ma negli occhi la brama per la tua carne \'e8 bruciante e sembra un'inesauribile spinta per la bestia. \par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Il Segugio ti si avventa contro al <72>.}
+END_STREAM
+66
+
+46*75*47*39*
+FLAGS:0
+BEGIN
+Sei davanti a tre brevi corridoio che si perdono nel buio. Puoi andare verso sinistra al <46>, destra al <75>, al centro al <47> oppure tornare indietro verso il <39>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sei davanti a tre brevi corridoio che si perdono nel buio. Puoi andare verso sinistra al <46>, destra al <75>, al centro al <47> oppure tornare indietro verso il <39>.}
+END_STREAM
+67
+
+78*26*
+FLAGS:1
+BEGIN
+Sei in una stanza enorme, piena di corpi sigillati in grosse bare di vetro incassate lungo le pareti circolari e fissate con una rete di cavi metallici. La stanza è chiusa dall'altro lato da una possente porta metallica. Una delle teche, riempita di liquido e con un corpo in sospensione, è situata al centro della stanza. Davanti alla teca c'è un supporto metallico circolare, nel quale c'è un incavo di circa 20cm di diametro.
+Se hai qualcosa da inserire, usala ?<78>?, altrimenti puoi tornare indietro verso il <26>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sei in una stanza enorme, piena di corpi sigillati in grosse bare di vetro incassate lungo le pareti circolari e fissate con una rete di cavi metallici. La stanza \'e8 chiusa dall'altro lato da una possente porta metallica. Una delle teche, riempita di liquido e con un corpo in sospensione, \'e8 situata al centro della stanza. Davanti alla teca c'\'e8 un supporto metallico circolare, nel quale c'\'e8 un incavo di circa 20cm di diametro.
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se hai qualcosa da inserire, usala ?<78>?, altrimenti puoi tornare indietro verso il <26>.}
+END_STREAM
+68
+
+79*
+FLAGS:0
+BEGIN
+Esamini il cilindro metallico, ma non riesci ad aprirlo in nessun modo e non sembra ci sia nulla di particolare. E' pesante e muovendolo puoi sentire dentro qualcosa di liquido che si muove. 
+Lo rimetti a posto e continui al <79>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Esamini il cilindro metallico, ma non riesci ad aprirlo in nessun modo e non sembra ci sia nulla di particolare. E' pesante e muovendolo puoi sentire dentro qualcosa di liquido che si muove. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Lo rimetti a posto e continui al <79>.}
+END_STREAM
+69
+
+31*
+FLAGS:0
+BEGIN
+Il Guardiano della Soglia osserva attentamente ciò che porti con te poi allunga una delle braccia e per un istante puoi osservare cosa si cela sotto quella veste, una visione d'incubo che ti accompagnerà per il resto dei tuoi giorni. Vieni avvolto da sciami di cariche elettriche ed inizi a sentirti sempre più debole. Svieni e ti risvegli in un corridoio buio. A terra, davanti a te, scorgi un oggetto curioso, dalla forma oblunga e simile ad un occhio, con dieci piccoli cerchi disegnati lungo i bordi irregolari. 
+Ti riposi un attimo poi vai al <31>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il \plain \f2\b\fs20 Guardiano della Soglia\plain \f2\fs20  osserva attentamente ci\'f2 che porti con te poi allunga una delle braccia e per un istante puoi osservare cosa si cela sotto quella veste, una visione d'incubo che ti accompagner\'e0 per il resto dei tuoi giorni. Vieni avvolto da sciami di cariche elettriche ed inizi a sentirti sempre pi\'f9 debole. Svieni e ti risvegli in un corridoio buio. A terra, davanti a te, scorgi un oggetto curioso, dalla forma oblunga e simile ad un occhio, con dieci piccoli cerchi disegnati lungo i bordi irregolari. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Ti riposi un attimo poi vai al <31>.}
+END_STREAM
+70
+
+
+FLAGS:0
+BEGIN
+Inizi a comprendere di cosa si tratta, in fin dei conti non era così difficile. Hanno ragione le voci, hanno sempre avuto ragione, peccato solo non averle ascoltate prima. Ma ora sai cosa devi fare, sai com'è giusto che finisca tutto, e l'euforia ti assale. Inizi a sbattere con violenza la testa contro il muro, ridendo sempre più forte del dolore orribile che ti assale, mentre il sangue cola dalla fronte e ti copre gli occhi, ma è l'unica cosa giusta da fare dicono le voci e chi sei tu, piccolo umano, per disubbidire a Loro che esistono da sempre?
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Inizi a comprendere di cosa si tratta, in fin dei conti non era cos\'ec difficile. Hanno ragione le voci, hanno sempre avuto ragione, peccato solo non averle ascoltate prima. Ma ora sai cosa devi fare, sai com'\'e8 giusto che finisca tutto, e l'euforia ti assale. Inizi a sbattere con violenza la testa contro il muro, ridendo sempre pi\'f9 forte del dolore orribile che ti assale, mentre il sangue cola dalla fronte e ti copre gli occhi, ma \'e8 l'unica cosa giusta da fare dicono le voci e chi sei tu, piccolo umano, per disubbidire a \plain \f2\b\i\fs20 Loro\plain \f2\fs20  che esistono da sempre?}
+END_STREAM
+71
+
+64*
+FLAGS:0
+BEGIN
+Sei ormai esausto per le fatiche e la tua mente è devastata dalle immagini degli orrori che hai dovuto vedere. Ti fermi a riprendere fiato e ti volti indietro, vedi il Segugio di Tindalos, fermo all'inizio della grotta. Per un attimo la sua mostruosità viene meno ed assomiglia quasi ad un cane normale mentre annusa l'aria. Poi il suo sguardo incrocia il tuo e lo vedi spalancare le fauci facendo saettare la mostruosa lingua rossastra nella tua direzione. Ricomincia a muoversi ma puoi notare qualcosa di particolare, sembra che la creatura abbia perso molta della sua convinzione, si muove guardinga, osservando le pareti mentre avanza verso di te. 
+Potrebbe essere un buon segno, oppure potrebbe significare che ti sei ficcato dalla padella nella proverbiale brace. 
+Scoprilo al <64>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sei ormai esausto per le fatiche e la tua mente \'e8 devastata dalle immagini degli orrori che hai dovuto vedere. Ti fermi a riprendere fiato e ti volti indietro, vedi il \plain \f2\b\fs20 Segugio di Tindalos\plain \f2\fs20 , fermo all'inizio della grotta. Per un attimo la sua mostruosit\'e0 viene meno ed assomiglia quasi ad un cane normale mentre annusa l'aria. Poi il suo sguardo incrocia il tuo e lo vedi spalancare le fauci facendo saettare la mostruosa lingua rossastra nella tua direzione. Ricomincia a muoversi ma puoi notare qualcosa di particolare, sembra che la creatura abbia perso molta della sua convinzione, si muove guardinga, osservando le pareti mentre avanza verso di te. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Potrebbe essere un buon segno, oppure potrebbe significare che ti sei ficcato dalla padella nella proverbiale brace. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Scoprilo al <64>.}
+END_STREAM
+72
+
+82*77*
+FLAGS:1
+BEGIN
+Devi combattere la belva, sperando che le tue forze residue siano sufficienti a fermarlo. Se hai un amuleto di qualche tipo usalo ora ?<82>?, altrimenti devi combatterla normalmente.
+
+Segugio di Tindalos PF:20  V:PF/2-2  D:4
+
+Se riesci a sconfiggerlo vai al paragrafo <77>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Devi combattere la belva, sperando che le tue forze residue siano sufficienti a fermarlo. Se hai un amuleto di qualche tipo usalo ora ?<82>?, altrimenti devi combatterla normalmente.
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\b\fs20 Segugio di Tindalos\plain \f2\fs20  PF:20  V:PF/2-2  D:4
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Se riesci a sconfiggerlo vai al paragrafo <77>.}
+END_STREAM
+73
+
+71*
+FLAGS:0
+BEGIN
+Il corridoio di mattoni si conclude all'imbocco di una caverna rocciosa, sui lati trovi diverso materiale per lavori edili, probabilmente utilizzato per i lavori di costruzione nella caverna antistante, dal fondo della quale giunge una tenue luce bluastra. 
+Inizi a correre per guadagnare terreno ma alle tue spalle senti i passi del Segugio che ha completato il suo pasto, così scappi al <71>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il corridoio di mattoni si conclude all'imbocco di una caverna rocciosa, sui lati trovi diverso materiale per lavori edili, probabilmente utilizzato per i lavori di costruzione nella caverna antistante, dal fondo della quale giunge una tenue luce bluastra. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Inizi a correre per guadagnare terreno ma alle tue spalle senti i passi del Segugio che ha completato il suo pasto, cos\'ec scappi al <71>.}
+END_STREAM
+74
+
+83*
+FLAGS:0
+BEGIN
+Il nulla è familiare questa volta, così come lo è l'alta creatura che ti guarda. Non ha volto, non ha espressione, eppure ti sembra che emani una sorta di beffardo compiacimento rivedendoti innanzi ad essa. Il Guardiano della Soglia ti osserva dal buio del suo cappuccio vuoto e ti indica una porta, apparsa dal nulla. Hai un attimo di esitazione, eppure sai che in questo momento hai una sola scelta. Appoggiando la mano sul pomolo della maniglia metallica senti una risata gorgogliante raggiungerti dalla figura immobile. 
+Vorresti girarti per capire ma vieni trascinato oltre la porta, verso la fine del tuo viaggio <83>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Il nulla \'e8 familiare questa volta, cos\'ec come lo \'e8 l'alta creatura che ti guarda. Non ha volto, non ha espressione, eppure ti sembra che emani una sorta di beffardo compiacimento rivedendoti innanzi ad essa. Il Guardiano della Soglia ti osserva dal buio del suo cappuccio vuoto e ti indica una porta, apparsa dal nulla. Hai un attimo di esitazione, eppure sai che in questo momento hai una sola scelta. Appoggiando la mano sul pomolo della maniglia metallica senti una risata gorgogliante raggiungerti dalla figura immobile. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Vorresti girarti per capire ma vieni trascinato oltre la porta, verso la fine del tuo viaggio <83>.}
+END_STREAM
+75
+
+70*48*
+FLAGS:0
+BEGIN
+T'inoltri nel buio della cripta mentre dai lati giunge lo squittio di un esercito di topi. Potrebbero esserci cose peggiori nelle tenebre ed una volta che lo squittio è scemato ti sembra di sentirle sussurrare. 
+Tira sulla tua Psiche, se fallisci perdi 1 PM (se sei a 0 vai al <70>) altrimenti prosegui guardingo al <48>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 T'inoltri nel buio della cripta mentre dai lati giunge lo squittio di un esercito di topi. Potrebbero esserci cose peggiori nelle tenebre ed una volta che lo squittio \'e8 scemato ti sembra di sentirle sussurrare. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Tira sulla tua \plain \f2\b\fs20 Psiche\plain \f2\fs20 , se fallisci perdi 1 PM (se sei a 0 vai al <70>) altrimenti prosegui guardingo al <48>.}
+END_STREAM
+76
+
+55*
+FLAGS:0
+BEGIN
+Per conoscere la tua sorte corri al <55>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Per conoscere la tua sorte corri al <55>.}
+END_STREAM
+77
+
+7*
+FLAGS:0
+BEGIN
+Urli la tua gioia selvaggia per aver sconfitto il tuo avversario. Ti rialzi dal suo cadavere martoriato e ti rendi conto che il luogo è illuminato da una fonte di luce che giunge dall'altro capo del corridoio. 
+Avanzi verso essa e finisci al paragrafo <7>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Urli la tua gioia selvaggia per aver sconfitto il tuo avversario. Ti rialzi dal suo cadavere martoriato e ti rendi conto che il luogo \'e8 illuminato da una fonte di luce che giunge dall'altro capo del corridoio. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Avanzi verso essa e finisci al paragrafo <7>.}
+END_STREAM
+78
+
+56*
+FLAGS:1
+BEGIN
+Infili il cilindro metallico nella feritoia circolare ed all'improvviso una luce si sprigiona da alcuni fori disposti lungo la base della teca metallica, che ora è percorsa da cariche elettriche. Mentre eseguivi la manovra il tuo inseguitore si è avvicinato sbavando e ringhiando così decidi di tentare l'unica uscita disponibile <56>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Verdana;}{\f1\fnil\fcharset1 Arial;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}\uc1\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs20 Infili il cilindro metallico nella feritoia circolare ed all'improvviso una luce si sprigiona da alcuni fori disposti lungo la base della teca metallica, che ora \'e8 percorsa da cariche elettriche. Mentre eseguivi la manovra il tuo inseguitore si \'e8 avvicinato sbavando e ringhiando cos\'ec decidi di tentare l'unica uscita disponibile <56>.}
+END_STREAM
+79
+
+44*54*68*80*60*46*
+FLAGS:0
+BEGIN
+Sono nicchie buie e maleodoranti, ognuna contiene uno strano cilindro metallico, alla base del quale vedi delle targhette con scritte in caratteri sconosciuti. In tutto trovi cinque nicchie con i cilindri chiusi, nelle altre i cilindri sono assenti ed in un caso ce n'è uno aperto, che contiene un liquido denso e rossastro. 
+Quale cilindro osservi? Il primo al <44>, il secondo al <54>, il terzo al <68>, il quarto all'<80>, il quinto al <60> oppure torni indietro verso il <46>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sono nicchie buie e maleodoranti, ognuna contiene uno strano cilindro metallico, alla base del quale vedi delle targhette con scritte in caratteri sconosciuti. In tutto trovi cinque nicchie con i cilindri chiusi, nelle altre i cilindri sono assenti ed in un caso ce n'\'e8 uno aperto, che contiene un liquido denso e rossastro. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Quale cilindro osservi? Il primo al <44>, il secondo al <54>, il terzo al <68>, il quarto all'<80>, il quinto al <60> oppure torni indietro verso il <46>.}
+END_STREAM
+80
+
+79*
+FLAGS:0
+BEGIN
+Esamini il cilindro metallico, ma non riesci ad aprirlo in nessun modo. E' pesante e muovendolo puoi sentire dentro qualcosa di liquido che si muove, ma niente altro, così lo rimetti a posto al <79>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Esamini il cilindro metallico, ma non riesci ad aprirlo in nessun modo. E' pesante e muovendolo puoi sentire dentro qualcosa di liquido che si muove, ma niente altro, cos\'ec lo rimetti a posto al <79>.}
+END_STREAM
+81
+
+66*
+FLAGS:0
+BEGIN
+Sull'altare non c'è nulla che sembri importante mentre sul pavimento ci sono molti scheletri, alcuni umani altri decisamente alieni. In una delle nicchie che si aprono nella parete circolare trovi un oggetto a forma di stella, di una sostanza molto leggera, probabilmente qualche oscura lega aliena portata sul nostro pianeta da queste creature d'incubo. 
+Dietro c'è una scritta che recita Cod.Prod. 9 - Made in China.
+Con la mente piena di dubbi ritorni al bivio al <66>.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Sull'altare non c'\'e8 nulla che sembri importante mentre sul pavimento ci sono molti scheletri, alcuni umani altri decisamente alieni. In una delle nicchie che si aprono nella parete circolare trovi un oggetto a forma di stella, di una sostanza molto leggera, probabilmente qualche oscura lega aliena portata sul nostro pianeta da queste creature d'incubo. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Dietro c'\'e8 una scritta che recita \plain \f2\i\fs20 Cod.Prod. 9 - Made in China\plain \f2\fs20 .
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Con la mente piena di dubbi ritorni al bivio al <66>.}
+END_STREAM
+82
+
+72*
+FLAGS:1
+BEGIN
+Nella tasca qualcosa sembra pulsare con una vibrazione sorda che ti entra nella carne. Metti la mano in tasca ed estrai l'oggetto a forma di occhio. Hai un bonus di +4 al combattimento. 
+Torna al <72> per finire quello che hai iniziato.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Nella tasca qualcosa sembra pulsare con una vibrazione sorda che ti entra nella carne. Metti la mano in tasca ed estrai l'oggetto a forma di occhio. Hai un bonus di +4 al combattimento. 
+\par \pard\fi0\li0\ql\ri0\sb0\sa0\itap0 Torna al <72> per finire quello che hai iniziato.}
+END_STREAM
+83
+
+
+FLAGS:1
+BEGIN
+Tempo e spazio perdono di nuovo qualsiasi senso ed il bianco accecante che ti circondava sfuma in un paesaggio molto diverso. Ti ritrovi in una lunga valle di roccia, ai lati della quale spuntoni immensi di basalto nero svettano fino alle nuvole. Osservi il panorama incredulo poi lo sguardo scivola al cielo dove due immense lune si contendono le tenebre senza stelle. Ti giri di colpo sperando di ritrovare il portale ma alle tue spalle non c'è nulla, a parte un sentiero che s'inoltra su una delle colline rocciose, sulla cui cima una sorta di immenso dolmen domina la visuale. Per un istante, mentre la disperazione ti assale, senti una ancora quella risata ghignante che non è del tuo mondo riecheggiare nell'aria, ma anche quella si dissolve nel silenzio eterno de La Valle degli Incubi.
+END
+BEGIN_STREAM
+{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset1 Verdana;}{\f3\fnil\fcharset0 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+
+\uc1
+\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f2\fs20 Tempo e spazio perdono di nuovo qualsiasi senso ed il bianco accecante che ti circondava sfuma in un paesaggio molto diverso. Ti ritrovi in una lunga valle di roccia, ai lati della quale spuntoni immensi di basalto nero svettano fino alle nuvole. Osservi il panorama incredulo poi lo sguardo scivola al cielo dove due immense lune si contendono le tenebre senza stelle. Ti giri di colpo sperando di ritrovare il portale ma alle tue spalle non c'\'e8 nulla, a parte un sentiero che s'inoltra su una delle colline rocciose, sulla cui cima una sorta di immenso dolmen domina la visuale. Per un istante, mentre la disperazione ti assale, senti una ancora quella risata ghignante che non \'e8 del tuo mondo riecheggiare nell'aria, ma anche quella si dissolve nel silenzio eterno de \plain \f2\b\i\fs20 La Valle degli Incubi\plain \f2\fs20 .}
+END_STREAM

@@ -1,0 +1,646 @@
+#include "lgc2z5_it.h";
+Node PAR1 "..."
+    with text "^Prosegui al <1> per capire cosa sta succedendo.";
+
+Option -> "1"
+    with goto PAR2;
+
+Node PAR2 "..."
+    with text "^ATTENZIONE: nel corso della storia ci saranno situazioni in cui aumentare il valore dell~attributo ma MAI oltre il valore massimo determinato all~inizio del gioco (nemmeno tramite la regola M.E.E.R. indicata più sotto).^Punti Ferità (PF) indicano lo stato di salute fisica. Il valore iniziale è 24, se arrivano a zero sei morto.^Punti Mente (PM) indicano la sanità mentale e la capacità di subire stress nervoso. Il valore iniziale è 16, se arriva a zero sei impazzito.^Velocità (V) indica la capacità di movimento, sia nelle azioni come camminare e saltare che negli scontri fisici. Il valore è pari alla metà di PF arrotondata per eccesso (quindi 7 PF corrispondono a 4 di V). Ogni volta che variano i PF ricordati di cambiare il valore di V.^Psiche (P) indica la forza mentale del personaggio. Il valore iniziale è la metà di PM arrotondata per eccesso. Ogni volta che cambia il valore di PM ricordati di cambiare il valore di P.^Danno (D) indica il danno base. All~inizio potrai contare solo sulla forza dei pugni e non essendo un pugile non sono molto potenti, per cui farai solo 2 punti di danno. Se trovi delle armi puoi usarle ed aggiungere il loro bonus al danno, ma è permesso usare solo un~arma alla volta. ^Continua al paragrafo <1>!";
+
+Option -> "1"
+    with goto PAR3;
+
+Node PAR3 "..."
+    with text "^^Inoltre puoi decidere di sfidare ulteriormente la sorte con la regola dei Mali Estremi o Estremi Rimedi. Nel caso in cui il tiro per l~abilità sia il minimo (2) ottieni un Estremo Rimedio ed oltre a passare la prova puoi aumentare di un punto la caratteristica base (PF se era un test su V, PM se era un test su P) ma se ottieni il massimo (12) allora è un Male Estremo e la caratteristica va diminuita conseguentemente di un punto. ^^Ed ora veniamo ai combattimenti al paragrafo <1>.";
+
+Option -> "1"
+    with goto PAR4;
+
+Node PAR4 "..."
+    with text "^^a) calcola la velocità della creatura, se la tua è maggiore vai al b) altrimenti sei più lento e vai al c);^^b) il tuo attacco: tiri sulla tua velocità, se vinci lo colpisci, sottrai il tuo danno dai suoi PF, se è a 0 o meno è morto e tu hai vinto;^^c) attacco dell~avversario: tira sulla sua velocità, se vince ti colpisce, e ti ferisce per D punti ferita, se sei a 0 o meno sei morto e la storia finisce qui, altrimenti aggiorni la tua V e prosegui;^^d) ricomincia da a).^^ATTENZIONE: se durante il gioco torni sui tuoi passi in un paragrafo dove c~erano creature che hai ucciso non far caso alla loro descrizione, ovviamente quella locazione al secondo passaggio sarà vuota.^Prosegui al <1>.";
+
+Option -> "1"
+    with goto PAR5;
+
+Node PAR5 "..."
+    with text "^Ogni oggetto può essere usato una sola volta, dopo l~uso tira una linea sul nome per ricordartene.^Ed ora tuffati nella letale avventura che ti aspetta al <1>!";
+
+Option -> "1"
+    with goto PAR6;
+
+Node PAR6 "..."
+    with text "^Non ti fidi e cerchi di tornare verso l~ascensore al paragrafo <1> oppure entri incuriosito nella loro auto al <2>?";
+
+Option -> "1"
+    with goto PAR8;
+
+Option -> "2"
+    with goto PAR10;
+
+Node PAR7 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR74;
+
+Node PAR8 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR11;
+
+Node PAR9 "..."
+    with text "^All'improvviso il corridoio si apre in una stanza molto ampia. Per sapere cosa ti aspetta prosegui al <1>.";
+
+Option -> "1"
+    with goto PAR67;
+
+Node PAR10 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR11;
+
+Node PAR11 "..."
+    with text "^Se inizi a gridare che vuoi essere liberato vai al <1> altrimenti attendi in silenzio il prossimo evento al paragrafo <2>.";
+
+Option -> "1"
+    with goto PAR13;
+
+Option -> "2"
+    with goto PAR15;
+
+Node PAR12 "..."
+    with text "^La creatura ti raggiunge all'<1>.";
+
+Option -> "1"
+    with goto PAR58;
+
+Node PAR13 "..."
+    with text "^Nella penombra che ti circonda ti siedi nella tua cella sperando che al paragrafo <1> le cose possano migliorare.";
+
+Option -> "1"
+    with goto PAR15;
+
+Node PAR14 "..."
+    with text "^^“Mi chiamo Lou… grazie… grazie per avermi salvato… ma siamo ancora in pericolo… tutti… sono piovuti dal cosmo… li dentro tutti questi mesi li ho potuti sognare… i Mi-Go, i funghi di Plutone… rapiscono certe persone e ne conservano le menti per imparare cose sul nostro mondo ed i corpi… quelli vengono riutilizzati, vuotati di ogni interiora, sono come vestiti… per permettergli di muoversi tra di noi. Ma non è questo il peggio, dovete capire, sono qui per un motivo, si sono diffusi sotto le nostre città come una peste… ma hanno un unico scopo… dovete avvisare… loro vogliono…”. ^^All~improvviso una strana nebbia inizia ad addensarsi in un angolo alle spalle di Lou e da essa riprende lentamente forma il Segugio di Tindalos che ti inseguiva. ^Stai per avvisarlo quando lo sguardo dell~uomo si fa vitreo e dalle sue labbra inizia a colare un rivolo di sangue. Vedi la lingua del mostro, innestata alla base del suo cranio, mentre la creatura inizia a cibarsi di lui. Ormai non c~è nulla da fare, guardi ancora per un attimo la scena raccapricciante ed inizi a correre verso il paragrafo <1>.";
+
+Option -> "1"
+    with goto PAR73;
+
+Node PAR15 "..."
+    with text "^Al risveglio sei al <1>.";
+
+Option -> "1"
+    with goto PAR17;
+
+Node PAR16 "..."
+    with text "^Tu cosa decidi di fare? Vai a sinistra al <1> o verso destra al <2>?";
+
+Option -> "1"
+    with goto PAR31;
+
+Option -> "2"
+    with goto PAR19;
+
+Node PAR17 "..."
+    with text "^Se mangi la poltiglia che ti hanno dato vai al <1>, se getti via il tutto leggi il <2> ma se rimani ad aspettare perso nei tuoi pensieri vai al <3>.";
+
+Option -> "1"
+    with goto PAR20;
+
+Option -> "2"
+    with goto PAR21;
+
+Option -> "3"
+    with goto PAR23;
+
+Node PAR18 "..."
+    with text "^Se hai qualcosa da usare per aprirla questo è il momento giusto ?<1>?, altrimenti non ti rimane che andare al paragrafo <2>.";
+
+Option -> "1"
+    with goto PAR35;
+
+Option -> "2"
+    with goto PAR24;
+
+Node PAR19 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR16;
+
+Option -> "2"
+    with goto PAR39;
+
+Node PAR20 "..."
+    with text "^Esaminala proseguendo al <1>.";
+
+Option -> "1"
+    with goto PAR27;
+
+Node PAR21 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR27;
+
+Node PAR22 "..."
+    with text "^Primo uomo  PF:10  V:PF/2  D:2^Secondo uomo PF:12  V:PF/2  D:2";
+
+Option -> "1"
+    with goto PAR57;
+
+Node PAR23 "..."
+    with text "^Vai al <1> per scoprire chi è.";
+
+Option -> "1"
+    with goto PAR18;
+
+Node PAR24 "..."
+    with text "^La tua coscienza è mantenuta in vita in un cilindro metallico mentre sei senza un corpo, senza i sensi umani, ma ancora vivo per i loro esperimenti, che urli senza bocca ne faccia il tuo dolore disumano, finché una follia clemente non ti avvolge, cancellando la tua mente.";
+
+
+Node PAR25 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR49;
+
+Option -> "2"
+    with goto PAR41;
+
+Option -> "3"
+    with goto PAR28;
+
+Option -> "4"
+    with goto PAR30;
+
+Option -> "5"
+    with goto PAR31;
+
+Node PAR26 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR12;
+
+Option -> "2"
+    with goto PAR58;
+
+Node PAR27 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR51;
+
+Option -> "2"
+    with goto PAR23;
+
+Node PAR28 "..."
+    with text "^Prendi tutto e vai al <1>.";
+
+Option -> "1"
+    with goto PAR25;
+
+Node PAR29 "..."
+    with text "^Prosegui la tua indagine al <1>.";
+
+Option -> "1"
+    with goto PAR25;
+
+Node PAR30 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR22;
+
+Option -> "2"
+    with goto PAR36;
+
+Node PAR31 "..."
+    with text "^Scegli di combatterla al <1>, cerchi di evitarla al <2> oppure torni indietro leggendo il <3>? ^(Se non è la prima volta che percorri questo tratto ed hai già sconfitto la creatura puoi proseguire al <4> o tornare indietro al <3>).";
+
+Option -> "1"
+    with goto PAR33;
+
+Option -> "2"
+    with goto PAR38;
+
+Option -> "3"
+    with goto PAR16;
+
+Option -> "4"
+    with goto PAR25;
+
+Option -> "5"
+    with goto PAR16;
+
+Node PAR32 "..."
+    with text "^Prosegui velocemente al <1>.";
+
+Option -> "1"
+    with goto PAR9;
+
+Node PAR33 "..."
+    with text "^^Parassita PF:18  V:PF/2-2  D:2^^Se riesci a vincere vai al <1> ma prima, mentre il corpo del parassita inizia a sciogliersi, raccogli da terra quello che sembra essere un osso mezzo digerito, che a parte lo schifo iniziale ti fornisce un bonus di +1 al combattimento.";
+
+Option -> "1"
+    with goto PAR25;
+
+Node PAR34 "..."
+    with text "^Potresti aver trovato un indizio che, assieme al codice ti consente di inserire il numero corretto ?<1>?. ^In questo caso somma tale valore a quello del paragrafo per sapere se riesci a passare oltre, altrimenti devi combattere le creature al <2>.";
+
+Option -> "1"
+    with goto PAR37;
+
+Option -> "2"
+    with goto PAR22;
+
+Node PAR35 "..."
+    with text "^Esamini le carte al <1> o esci in fretta al <2>?";
+
+Option -> "1"
+    with goto PAR40;
+
+Option -> "2"
+    with goto PAR45;
+
+Node PAR36 "..."
+    with text "^Devi fare un tiro su Psiche e se fallisci sei colto dal terrore e perdi 1 PM. ^Comunque vada scivoli senza fare troppo rumore al <1>.";
+
+Option -> "1"
+    with goto PAR42;
+
+Node PAR37 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR32;
+
+Option -> "2"
+    with goto PAR22;
+
+Node PAR38 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR25;
+
+Option -> "2"
+    with goto PAR33;
+
+Node PAR39 "..."
+    with text "^T'inoltri nel buio sotterraneo al <1> o torni sui tuoi passi al <2>?";
+
+Option -> "1"
+    with goto PAR50;
+
+Option -> "2"
+    with goto PAR19;
+
+Node PAR40 "..."
+    with text "^Noti inoltre che alcune schede hanno l'intestazione di una strana azienda, la Pickman & G Inc. che non hai mai sentito nominare. I nomi in quel caso sembrano rappresentare persone che lavorano o collaborano con quell'azienda. In un foglio poggiato sopra uno dei raccoglitori aperti trovi anche la tua scheda, e noti una data aggiunta a mano alla voce ~estrazione~, proprio la data di oggi!^Controllando la scrivania trovi un tagliacarte abbastanza robusto che ti fornisce un  +1 di bonus in combattimento ed una boccetta con un unguento marca Kadath che secondo le istruzioni guarisce 6 PF a dose e tu ne puoi usare ben 3, anche durante i combattimenti e delle pastiglie di tranquillante Yaggath (sembra si possa usare per recuperare 2 PM per ognuna delle due pasticche rimaste). ^Prosegui al <1>.";
+
+Option -> "1"
+    with goto PAR45;
+
+Node PAR41 "..."
+    with text "^Esamini le provette al <1>, l'armadio al <2> o torni indietro verso il <3>?";
+
+Option -> "1"
+    with goto PAR29;
+
+Option -> "2"
+    with goto PAR28;
+
+Option -> "3"
+    with goto PAR25;
+
+Node PAR42 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR34;
+
+Option -> "2"
+    with goto PAR22;
+
+Node PAR43 "..."
+    with text "^Tira sulla tua Psiche, se non passi il tiro perdi 1 PM. Se vai a zero vai al <1>, altrimenti noti sotto il cilindro un cartoncino con scritto 11 e prosegui al <2>.";
+
+Option -> "1"
+    with goto PAR70;
+
+Option -> "2"
+    with goto PAR79;
+
+Node PAR44 "..."
+    with text "^Tira sulla tua Psiche, se vinci ti stacchi dal cilindro <1> altrimenti perdi un punto di PM e devi ritentare il tiro (se sei a zero vai al <2>).";
+
+Option -> "1"
+    with goto PAR79;
+
+Option -> "2"
+    with goto PAR70;
+
+Node PAR45 "..."
+    with text "^Prosegui verso un bivio al <1> consapevole di non poter più tornare sui tuoi passi.";
+
+Option -> "1"
+    with goto PAR19;
+
+Node PAR46 "..."
+    with text "^Le esamini con più attenzione al <1>, prosegui nel corridoio al <2> o torni indietro verso il <3>?";
+
+Option -> "1"
+    with goto PAR79;
+
+Option -> "2"
+    with goto PAR52;
+
+Option -> "3"
+    with goto PAR66;
+
+Node PAR47 "..."
+    with text "^Sfidi il disgusto ed esamini il corpo al <1> o torni indietro verso il <2>.";
+
+Option -> "1"
+    with goto PAR63;
+
+Option -> "2"
+    with goto PAR66;
+
+Node PAR48 "..."
+    with text "^Non puoi fare altro che combattere.^^Golgath PF:12  V:PF/2  D:3^^Se riesci a massacrarla come merita vai al <1> altrimenti diventi il suo prossimo pasto, in quella catacomba infernale.";
+
+Option -> "1"
+    with goto PAR81;
+
+Node PAR49 "..."
+    with text "^Ti ritrai dolorante e torni al <1>.";
+
+Option -> "1"
+    with goto PAR25;
+
+Node PAR50 "..."
+    with text "^Prosegui fino al <1>.";
+
+Option -> "1"
+    with goto PAR66;
+
+Node PAR51 "..."
+    with text "^Non ti rimane che attendere al <1>.";
+
+Option -> "1"
+    with goto PAR23;
+
+Node PAR52 "..."
+    with text "^Se hai qualcosa che possa adattarsi utilizzalo ?<1>?, altrimenti non ti rimane che tornare indietro verso il <2>.";
+
+Option -> "1"
+    with goto PAR61;
+
+Option -> "2"
+    with goto PAR46;
+
+Node PAR53 "..."
+    with text "^Potrebbe essere una nuova mostruosità, ma non ti rimane molto tempo, così decidi di chiedergli di darti una mano con la porta al <1>.";
+
+Option -> "1"
+    with goto PAR14;
+
+Node PAR54 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR44;
+
+Node PAR55 "..."
+    with text "";
+
+
+Node PAR56 "..."
+    with text "^Prova a scappare al <1>.";
+
+Option -> "1"
+    with goto PAR53;
+
+Node PAR57 "..."
+    with text "^Felice di poter fare più danni ai tuoi carcerieri vai al <1>.";
+
+Option -> "1"
+    with goto PAR32;
+
+Node PAR58 "..."
+    with text "";
+
+
+Node PAR59 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR55;
+
+Node PAR60 "..."
+    with text "^Lo ascolti al <1> o ti ritrai disgustato e ritorni indietro verso il <2>?";
+
+Option -> "1"
+    with goto PAR43;
+
+Option -> "2"
+    with goto PAR79;
+
+Node PAR61 "..."
+    with text "^Ti chiede il numero dei tuoi cervelli. ^Puoi dirgli che ne hai uno solo al <2>, che ne hai due al <3>, tre al <4> oppure tentare con un nessuno al <5>. ^Ma di sicuro qualcosa gli devi rispondere.";
+
+Option -> "1"
+    with goto PAR70;
+
+Option -> "2"
+    with goto PAR62;
+
+Option -> "3"
+    with goto PAR69;
+
+Option -> "4"
+    with goto PAR76;
+
+Option -> "5"
+    with goto PAR59;
+
+Node PAR62 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR55;
+
+Node PAR63 "..."
+    with text "^Finito il macabro compito ritorni al <2>.";
+
+Option -> "1"
+    with goto PAR70;
+
+Option -> "2"
+    with goto PAR66;
+
+Node PAR64 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR58;
+
+Option -> "2"
+    with goto PAR65;
+
+Node PAR65 "..."
+    with text "^Il Segugio ti si avventa contro al <2>.";
+
+Option -> "1"
+    with goto PAR70;
+
+Option -> "2"
+    with goto PAR72;
+
+Node PAR66 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR46;
+
+Option -> "2"
+    with goto PAR75;
+
+Option -> "3"
+    with goto PAR47;
+
+Option -> "4"
+    with goto PAR39;
+
+Node PAR67 "..."
+    with text "^Se hai qualcosa da inserire, usala ?<1>?, altrimenti puoi tornare indietro verso il <2>.";
+
+Option -> "1"
+    with goto PAR78;
+
+Option -> "2"
+    with goto PAR26;
+
+Node PAR68 "..."
+    with text "^Lo rimetti a posto e continui al <1>.";
+
+Option -> "1"
+    with goto PAR79;
+
+Node PAR69 "..."
+    with text "^Ti riposi un attimo poi vai al <1>.";
+
+Option -> "1"
+    with goto PAR31;
+
+Node PAR70 "..."
+    with text "";
+
+
+Node PAR71 "..."
+    with text "^Potrebbe essere un buon segno, oppure potrebbe significare che ti sei ficcato dalla padella nella proverbiale brace. ^Scoprilo al <1>.";
+
+Option -> "1"
+    with goto PAR64;
+
+Node PAR72 "..."
+    with text "^^Segugio di Tindalos PF:20  V:PF/2-2  D:4^^Se riesci a sconfiggerlo vai al paragrafo <2>.";
+
+Option -> "1"
+    with goto PAR82;
+
+Option -> "2"
+    with goto PAR77;
+
+Node PAR73 "..."
+    with text "^Inizi a correre per guadagnare terreno ma alle tue spalle senti i passi del Segugio che ha completato il suo pasto, così scappi al <1>.";
+
+Option -> "1"
+    with goto PAR71;
+
+Node PAR74 "..."
+    with text "^Vorresti girarti per capire ma vieni trascinato oltre la porta, verso la fine del tuo viaggio <1>.";
+
+Option -> "1"
+    with goto PAR83;
+
+Node PAR75 "..."
+    with text "^Tira sulla tua Psiche, se fallisci perdi 1 PM (se sei a 0 vai al <1>) altrimenti prosegui guardingo al <2>.";
+
+Option -> "1"
+    with goto PAR70;
+
+Option -> "2"
+    with goto PAR48;
+
+Node PAR76 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR55;
+
+Node PAR77 "..."
+    with text "^Avanzi verso essa e finisci al paragrafo <1>.";
+
+Option -> "1"
+    with goto PAR7;
+
+Node PAR78 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR56;
+
+Node PAR79 "..."
+    with text "^Quale cilindro osservi? Il primo al <1>, il secondo al <2>, il terzo al <3>, il quarto all'<4>, il quinto al <5> oppure torni indietro verso il <6>.";
+
+Option -> "1"
+    with goto PAR44;
+
+Option -> "2"
+    with goto PAR54;
+
+Option -> "3"
+    with goto PAR68;
+
+Option -> "4"
+    with goto PAR80;
+
+Option -> "5"
+    with goto PAR60;
+
+Option -> "6"
+    with goto PAR46;
+
+Node PAR80 "..."
+    with text "";
+
+Option -> "1"
+    with goto PAR79;
+
+Node PAR81 "..."
+    with text "^Dietro c'è una scritta che recita Cod.Prod. 9 - Made in China.^Con la mente piena di dubbi ritorni al bivio al <1>.";
+
+Option -> "1"
+    with goto PAR66;
+
+Node PAR82 "..."
+    with text "^Torna al <1> per finire quello che hai iniziato.";
+
+Option -> "1"
+    with goto PAR72;
+
+Node PAR83 "..."
+    with text "";
+
+
+[ Init;
+    print "^^Fuga dall'Altrove (v. speciale)^by Matteo Poropat^^";
+    moveto(PAR1);
+];
