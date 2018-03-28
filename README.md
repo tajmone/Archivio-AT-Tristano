@@ -10,8 +10,12 @@ Un tentativo di recuperare e preservare i miei vari contributi all'IF italiana, 
 
 - [Introduzione](#introduzione)
 - [Contenuti del Progetto](#contenuti-del-progetto)
-    - [LGC2Z5](#lgc2z5)
-    - [ZenFactor Spa](#zenfactor-spa)
+    - [Avventure Testuali](#avventure-testuali)
+        - [ZenFactor Spa](#zenfactor-spa)
+    - [Applicativi](#applicativi)
+        - [LGC2Z5](#lgc2z5)
+    - [Traduzioni e Ristampe](#traduzioni-e-ristampe)
+        - [Terra d'IF](#terra-dif)
 - [Licenze d'Uso](#licenze-duso)
 - [Progetti Affini](#progetti-affini)
 
@@ -39,17 +43,44 @@ L'idea generale è quella di tentare di preservare il patrimonio della comunità
 
 Ulteriori contenuti verranno aggiunti man mano che li recupero dai vecchi hard disk e ne ricostruisco il contesto storico.
 
-## LGC2Z5
+- [Avventure Testuali]
+- [Applicativi]
+- [Traduzioni e Ristampe]
 
-- [`/LGC2Z5/`](./LGC2Z5)
+[Avventure Testuali]: #avventure-testuali
+[Applicativi]: #applicativi
+[Traduzioni e Ristampe]: #traduzioni-e-ristampe
+
+## Avventure Testuali
+
+Avventure da me create.
+
+### ZenFactor Spa
+
+- [`/ZenFactor-Spa/`](./ZenFactor-Spa/)
+
+Breve avventura testuale in italiano, creata da Tristano Ajmone (2010) allo scopo di insegnare come si giocano le AT. Creata con Inform 7. Include il codice sorgente (pubblico dominio).
+
+## Applicativi
+
+Alcuni applicativi per l'IF da me creati.
+
+### LGC2Z5
+
+- [`/LGC2Z5/`](./LGC2Z5/)
 
 Applicativo Windows per convertire e compilare file progetto di __Libro Game Creator 2__ in storyfile Z-Machine. Creato da Tristano Ajmone (2010).
 
-## ZenFactor Spa
+## Traduzioni e Ristampe
 
-- [`/ZenFactor-Spa/`](./ZenFactor-Spa)
+Alcuni testi a cui ho contribuito tramite traduzione o ristampe, oppure ottimizzando PDF esistenti e distribuendoli sul mio vecchio sito.
 
-Breve avventura testuale in italiano, creata da Tristano Ajmone (2010) allo scopo di insegnare come si giocano le AT. Creata con Inform 7. Include il codice sorgente (pubblico dominio).
+### Terra d'IF
+
+- [`/Terra_dIF/`](./Terra_dIF/)
+
+Tutti i numeri della rivista _Terra d’IF_ (2003-2006), lo _Speciale_ del 2003, e le due _Newsletter_ del 2008, in file PDF da me ottimizzati e condivisi sul sito ZenFactor.org.
+
 
 # Licenze d'Uso
 
