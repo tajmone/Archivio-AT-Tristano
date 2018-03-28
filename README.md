@@ -13,6 +13,7 @@ Un tentativo di recuperare e preservare i miei vari contributi all'IF italiana, 
     - [LGC2Z5](#lgc2z5)
     - [ZenFactor Spa](#zenfactor-spa)
 - [Licenze d'Uso](#licenze-duso)
+- [Progetti Affini](#progetti-affini)
 
 <!-- /MarkdownTOC -->
 
@@ -55,3 +56,18 @@ Breve avventura testuale in italiano, creata da Tristano Ajmone (2010) allo scop
 Ciascun progetto è soggetto a una diversa licenza d'uso, descritta all'interno della cartella che ospita il progetto e in cui troverete uno o più file di licenza.
 
 Eventuali componenti e risorse di terze parti (qui inclusi a scopo di completezza) sono soggetti alle proprie licenze originali.
+
+# Progetti Affini
+
+Profili GitHub di altri membri della comunità IF italiana.
+
+- [Alessandro Schillaci]
+- [Leonardo Boselli]
+- [Paolo G. Sfredda]
+
+
+
+
+[Alessandro Schillaci]: https://github.com/silverslade "Visita il profilo GitHub di Alessandro Schillaci (alias 'silverslade')"
+[Leonardo Boselli]: https://github.com/Leonardo-Boselli "Visita il profilo GitHub di Leonardo Boselli"
+[Paolo G. Sfredda]: https://github.com/pgsfredda "Visita il profilo GitHub di Paolo G. Sfredda"
