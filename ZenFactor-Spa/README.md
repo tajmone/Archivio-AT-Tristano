@@ -1,7 +1,9 @@
 # ZenFactor Spa
 
-_ZenFactor Spa_, by Tristano Ajmone, 2010.
+_ZenFactor Spa_, by Tristano Ajmone, 2010; pubblico dominio.
 
+
+- [Gioca ZenFactor Spa nel browser][ZFS iPlayIF]
 
 -----
 
@@ -9,6 +11,7 @@ _ZenFactor Spa_, by Tristano Ajmone, 2010.
 
 <!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="only_ascii" uri_encoding="true" levels="1,2,3" -->
 
+- [Link Esterni](#link-esterni)
 - [Introduzione](#introduzione)
 - [Dati Tecnici](#dati-tecnici)
     - [Estensione Italian Richiesta](#estensione-italian-richiesta)
@@ -20,6 +23,15 @@ _ZenFactor Spa_, by Tristano Ajmone, 2010.
 <!-- /MarkdownTOC -->
 
 -----
+
+# Link Esterni
+
+- [IFDB » ZenFactor Spa]
+- [ZenFactor Spa, homepage][ZenFactor.org] (su Wayback Machine)
+- [ZenFactor Spa, giocabile nel browser][ZFS iPlayIF] (tramite [Parchment])
+- [IF Archive » games » zcode » italian] » [`zenfactor_spa.z8`][IFArchive ZFS z8]
+
+[Parchment]: https://github.com/curiousdannii/parchment "Visita il progetto Parchment su GitHub"
 
 # Introduzione
 
@@ -134,3 +146,9 @@ Puoi visionare il testo della licenza [CC BY 3.0 tradotto in italiano a questo l
 [CC-BY-3.0 IT]: https://creativecommons.org/licenses/by/3.0/it/
 
 [ZMPP]: http://zmpp.sourceforge.net/ "Visita il sito di ZMPP (The Z-Machine Preservation Project)"
+
+[IFDB » ZenFactor Spa]: http://ifdb.tads.org/viewgame?id=kj5hyq3wkvl8x8yf "Visista la pagina di ZenFactor Spa su IFDB"
+
+[IF Archive » games » zcode » italian]: https://ifarchive.org/if-archive/games/zcode/italian/ "Visita la sezione 'games/zcode/italian/' di IF Archive"
+[IFArchive ZFS z8]: https://ifarchive.org/if-archive/games/zcode/italian/zenfactor_spa.z8 "Link diretto alla copia di ZenFactor Spa depositata su IF Archive"
+[ZFS iPlayIF]: http://iplayif.com/?story=https%3A%2F%2Fifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fitalian%2Fzenfactor_spa.z8 "Gioca ZenFactor Spa su iplayif.com, direttamente nel browser, tramite Parchment"
