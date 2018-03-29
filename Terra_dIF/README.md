@@ -4,6 +4,8 @@ Tutti i numeri della rivista _Terra d’IF_ (2003-2006), lo _Speciale_ del 2003,
 
 Licenza: [CC BY-NC-ND 2.0 IT]
 
+![Anteprima 3D Terra d'IF][Anteprima x700]
+
 -----
 
 **Indice**
@@ -21,6 +23,8 @@ Licenza: [CC BY-NC-ND 2.0 IT]
 
 # Contenuti
 
+I file PDF della rivista:
+
 - [`tdif_001.pdf`][TdIF 1] — n.1 (Ottobre 2003)
 - [`tdif_002.pdf`][TdIF 2] — n.2 (Febbraio 2004)
 - [`tdif_spec2003.pdf`][TdIF AT 2003] — Numero Speciale: Tutte le avventure del 2003
@@ -34,6 +38,10 @@ Licenza: [CC BY-NC-ND 2.0 IT]
 - [`tdif_010.pdf`][TdIF 10] — n.10 (Ottobre 2006)
 - [`tdif_nl_001.pdf`][TdIF NL 1] — Newsletter n.1 (Luglio 2008)
 - [`tdif_nl_002.pdf`][TdIF NL 2] — Newsletter n.2 (Ottobre 2008)
+
+Immagini di anteprima della rivista, da me create:
+
+- [`/anteprime-3D/`](./anteprime-3D/)
 
 
 # Introduzione
@@ -100,3 +108,7 @@ Il sito [terradif.net] riportava la seguente [nota per la licenza d'uso]:
 
 [IF Archive » magazines » Terra]: http://ifarchive.org/indexes/if-archiveXmagazinesXTerra.html "Visita la sezione di IF Archive dedicata a 'Terra d’IF'"
 [IF Archive]: http://ifarchive.org/ "Visita il portale IF Archive"
+
+[Anteprima x700]: ./anteprime-3D/Terra_dIF_3D_x700_bianco.gif "Anteprima in 3D della rivista Terra d’IF, numeri 2 e 4"
+
+
