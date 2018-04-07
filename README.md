@@ -15,6 +15,7 @@ Un tentativo di recuperare e preservare i miei vari contributi all'IF italiana, 
     - [Applicativi](#applicativi)
         - [LGC2Z5](#lgc2z5)
     - [Traduzioni e Ristampe](#traduzioni-e-ristampe)
+        - [Introduzione alle Avventure Testuali](#introduzione-alle-avventure-testuali)
         - [Terra d'IF](#terra-dif)
 - [Licenze d'Uso](#licenze-duso)
 - [Progetti Affini](#progetti-affini)
@@ -75,11 +76,21 @@ Applicativo Windows per convertire e compilare file progetto di __Libro Game Cre
 
 Alcuni testi a cui ho contribuito tramite traduzione o ristampe, oppure ottimizzando PDF esistenti e distribuendoli sul mio vecchio sito.
 
+### Introduzione alle Avventure Testuali
+
+- [`/IntroduzioneAT/`](./IntroduzioneAT)
+
+Traduzione italiana di _Introduction to Interactive Fiction_ di [Emily Short], da me curata e pubblicata sul sito ZenFactor.org nel 2010.
+
+![Anteprima Introduzione alle Avventure Testuali][Anteprima Intro AT]
+
 ### Terra d'IF
 
 - [`/Terra_dIF/`](./Terra_dIF/)
 
 Tutti i numeri della rivista _Terra d’IF_ (2003-2006), lo _Speciale_ del 2003, e le due _Newsletter_ del 2008, in file PDF da me ottimizzati e condivisi sul sito ZenFactor.org.
+
+![Anteprima rivista Terra d'IF][Anteprima Terra d'IF]
 
 
 # Licenze d'Uso
@@ -98,7 +109,11 @@ Profili GitHub di altri membri della comunità IF italiana.
 
 
 
+[Anteprima Intro AT]: ./IntroduzioneAT/anteprime-3D/IntroduzioneAT_3D_Web_x300.gif "Anteprima in 3D del documento 'Introduzione alle Avventure Testuali' di Emily Short"
+[Anteprima Terra d'IF]: ./Terra_dIF/anteprime-3D/Terra_dIF_3D_Web_x300_bianco.gif "Anteprima in 3D della rivista Terra d’IF, numeri 2 e 4"
 
 [Alessandro Schillaci]: https://github.com/silverslade "Visita il profilo GitHub di Alessandro Schillaci (alias 'silverslade')"
 [Leonardo Boselli]: https://github.com/Leonardo-Boselli "Visita il profilo GitHub di Leonardo Boselli"
 [Paolo G. Sfredda]: https://github.com/pgsfredda "Visita il profilo GitHub di Paolo G. Sfredda"
+
+[Emily Short]: https://en.wikipedia.org/wiki/Emily_Short "Vedi la pagina Wikipedia dedicata a Emily Short"
