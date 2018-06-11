@@ -1,6 +1,6 @@
 # Terra d'IF
 
-Tutti i numeri della rivista _Terra d’IF_ (2003-2006), lo _Speciale_ del 2003, e le due _Newsletter_ del 2008, in file PDF da me ottimizzati.
+Tutti i numeri della rivista _Terra d'IF_ (2003-2006), lo _Speciale_ del 2003, e le due _Newsletter_ del 2008, in file PDF da me ottimizzati.
 
 Licenza: [CC BY-NC-ND 2.0 IT]
 
@@ -15,7 +15,9 @@ Licenza: [CC BY-NC-ND 2.0 IT]
 - [Contenuti](#contenuti)
 - [Introduzione](#introduzione)
 - [La Rivista](#la-rivista)
+- [Terra d'IF su IF Archive](#terra-dif-su-if-archive)
 - [Licenza](#licenza)
+- [Link Esterni](#link-esterni)
 
 <!-- /MarkdownTOC -->
 
@@ -46,7 +48,7 @@ Immagini di anteprima della rivista, da me create:
 
 # Introduzione
 
-Il mio unico contributo alla rivista _Terra d’IF_ consiste nell'averne scaricato tutti i numeri dal portale [IF Italia], ottimizato i PDF e averli resi disponibili sul mio sito [ZenFactor.org].
+Il mio unico contributo alla rivista _Terra d'IF_ consiste nell'averne scaricato tutti i numeri dal portale [IF Italia], ottimizato i PDF e averli resi disponibili sul mio sito [ZenFactor.org].
 
 Le modifiche da me apportate ai file originali sono le seguenti:
 
@@ -55,21 +57,27 @@ Le modifiche da me apportate ai file originali sono le seguenti:
 
 A parte queste aggiunte, non sono state apportate modifiche ai testi originali (tali modifiche non costituiscono un'opera derivata, e non violano la clausola _Non-Derivative_ della licenza Creative Commons).
 
-Sia il portale [IF Italia] che [ZenFactor.org] non sono più attivi da tempo. Ho ritenuto quindi opportuno incorporare nel progetto i PDF di _Terra d’IF_ da me ottimizzati.
+Sia il portale [IF Italia] che [ZenFactor.org] non sono più attivi da tempo. Ho ritenuto quindi opportuno incorporare nel progetto i PDF di _Terra d'IF_ da me ottimizzati.
 
 # La Rivista
 
-_Terra d’IF_ è stata curata da Roberto Grassi, e resa disponibile sul sito [terradif.net], sul quale era così presentata:
+_Terra d'IF_ è stata curata da Roberto Grassi, e resa disponibile sul sito [terradif.net], sul quale era così presentata:
 
-> Terra d’IF è una fanzine italiana di interactive fiction scritta con la collaborazione dei membri del NG italiano delle avventure testuali (it.comp.giochi.avventure.testuali). Ha iniziato le sue pubblicazioni nell’ottobre 2003.
+> Terra d'IF è una fanzine italiana di interactive fiction scritta con la collaborazione dei membri del NG italiano delle avventure testuali (it.comp.giochi.avventure.testuali). Ha iniziato le sue pubblicazioni nell’ottobre 2003.
 
 In seguito, la rivista venne rese disponibile sul portale [IF Italia], con la seguente dicitura:
 
-> Terra d’IF è una rivista di interactive fiction che è stata attiva dall’Ottobre 2003 all’Ottobre 2006, per 10 numeri. La rivista aveva una cadenza quadrimestrale ed ha cercato di coinvolgere i partecipanti alla community italiana delle avventure testuali con un prodotto di alta qualità. Di seguito trovate i numeri prodotti nei tre anni di attività. Dopo le uscite regolari Terra d’IF ha prodotto due numeri di una newsletter (che trovate in coda) con alcuni articoli tradotti.
+> Terra d'IF è una rivista di interactive fiction che è stata attiva dall’Ottobre 2003 all’Ottobre 2006, per 10 numeri. La rivista aveva una cadenza quadrimestrale ed ha cercato di coinvolgere i partecipanti alla community italiana delle avventure testuali con un prodotto di alta qualità. Di seguito trovate i numeri prodotti nei tre anni di attività. Dopo le uscite regolari Terra d'IF ha prodotto due numeri di una newsletter (che trovate in coda) con alcuni articoli tradotti.
 
-[IF Archive] contiene una sezione dedicata a _Terra d’IF_:
+# Terra d'IF su IF Archive
 
-- [IF Archive » magazines » Terra]
+[IF Archive] contiene una sezione dedicata a _Terra d'IF_:
+
+- [IF Archive » Magazines » Terra]
+
+In origine, solo i primi due numeri della rivista erano stati pubblicati su IF Archive, così ho avviato una richiesta per poter caricare anche i restanti numeri, e di usare i PDF da me ottimizzati. La richiesta è stata accolta, e ora IF Archive ha reso disponibili tutti i numeri in PDF ottimizati, pur conservando in una sottocartella copia dei due numeri originali caricati dall'autore:
+
+- [IF Archive » Magazines » Terra » Old]
 
 # Licenza
 
@@ -77,37 +85,51 @@ In seguito, la rivista venne rese disponibile sul portale [IF Italia], con la se
 
 Il sito [terradif.net] riportava la seguente [nota per la licenza d'uso]:
 
-> Terra d’IF è distribuito con licenza [Creative Commons Attribuzione - Non commerciale - Non opere derivate 2.0][CC BY-NC-ND 2.0 IT]
+> Terra d'IF è distribuito con licenza [Creative Commons Attribuzione - Non commerciale - Non opere derivate 2.0][CC BY-NC-ND 2.0 IT]
 
 
+# Link Esterni
 
+- [IF Archive » Magazines » Terra]
+- [IF Archive » Magazines » Terra » Old]
 
-[TdIF 1]: ./tdif_001.pdf "'Terra d’IF' n.1 (Ottobre 2003)"
-[TdIF 2]: ./tdif_002.pdf "'Terra d’IF' n.2 (Febbraio 2004)"
-[TdIF 3]: ./tdif_003.pdf "'Terra d’IF' n.3 (Giugno 2004)"
-[TdIF 4]: ./tdif_004.pdf "'Terra d’IF' n.4 (Ottobre 2004)"
-[TdIF 5]: ./tdif_005.pdf "'Terra d’IF' n.5 (Febbraio 2005)"
-[TdIF 6]: ./tdif_006.pdf "'Terra d’IF' n.6 (Aprile 2005)"
-[TdIF 7]: ./tdif_007.pdf "'Terra d’IF' n.7 (Ottobre 2005)"
-[TdIF 8]: ./tdif_008.pdf "'Terra d’IF' n.8 (Febbraio 2006)"
-[TdIF 9]: ./tdif_009.pdf "'Terra d’IF' n.9 (Aprile 2006)"
-[TdIF 10]: ./tdif_010.pdf "'Terra d’IF' n.10 (Ottobre 2006)"
-[TdIF NL 1]: ./tdif_nl_001.pdf "'Terra d’IF' Newsletter n.1 (Luglio 2008)"
-[TdIF NL 2]: ./tdif_nl_002.pdf "'Terra d’IF' Newsletter n.2 (Ottobre 2008)"
+su Wayback Machine:
+
+- [terradif.net]
+- [IF Italia » Terra d'IF][IF Italia]
+- [ZenFactor.org » Terra d'IF][ZenFactor.org]
+
+<!-----------------------------------------------------------------------------
+                                REFERENCE LINKS
+  ---------------------------------------------------------------------------->
+
+[TdIF 1]:       ./tdif_001.pdf      "'Terra d’IF' n.1 (Ottobre 2003)"
+[TdIF 2]:       ./tdif_002.pdf      "'Terra d’IF' n.2 (Febbraio 2004)"
+[TdIF 3]:       ./tdif_003.pdf      "'Terra d’IF' n.3 (Giugno 2004)"
+[TdIF 4]:       ./tdif_004.pdf      "'Terra d’IF' n.4 (Ottobre 2004)"
+[TdIF 5]:       ./tdif_005.pdf      "'Terra d’IF' n.5 (Febbraio 2005)"
+[TdIF 6]:       ./tdif_006.pdf      "'Terra d’IF' n.6 (Aprile 2005)"
+[TdIF 7]:       ./tdif_007.pdf      "'Terra d’IF' n.7 (Ottobre 2005)"
+[TdIF 8]:       ./tdif_008.pdf      "'Terra d’IF' n.8 (Febbraio 2006)"
+[TdIF 9]:       ./tdif_009.pdf      "'Terra d’IF' n.9 (Aprile 2006)"
+[TdIF 10]:      ./tdif_010.pdf      "'Terra d’IF' n.10 (Ottobre 2006)"
+[TdIF NL 1]:    ./tdif_nl_001.pdf   "'Terra d’IF' Newsletter n.1 (Luglio 2008)"
+[TdIF NL 2]:    ./tdif_nl_002.pdf   "'Terra d’IF' Newsletter n.2 (Ottobre 2008)"
 [TdIF AT 2003]: ./tdif_spec2003.pdf "'Terra d’IF' Numero Speciale: Tutte le avventure del 2003"
 
 
 [terradif.net]: <https://web.archive.org/web/20071213005033/http://www.terradif.net:80/magazine/> "Visita la copia archiviata della pagina su Wayback Machine"
 [nota per la licenza d'uso]: <https://web.archive.org/web/20071213025339/http://www.terradif.net:80/copyright> "Visita la copia archiviata della pagina su Wayback Machine"
 
-[IF Italia]: <https://web.archive.org/web/20110309105258/http://www.ifitalia.info/pmwiki/pmwiki.php?n=Riviste.TerraDIf> "Visita la copia archiviata della pagina su Wayback Machine"
+[IF Italia]: <https://web.archive.org/web/20110309105258/http://www.ifitalia.info/pmwiki/pmwiki.php?n=Riviste.TerraDIf> "Visita la copia archiviata su Wayback Machine della pagina di IF Italia dedicata a 'Terra d’IF'"
 
-[ZenFactor.org]: <https://web.archive.org/web/20170226141346/http://avventure-testuali.zenfactor.org/terra_if.htm> "Visita la copia archiviata della pagina su Wayback Machine"
+[ZenFactor.org]: <https://web.archive.org/web/20170226141346/http://avventure-testuali.zenfactor.org/terra_if.htm> "Visita la copia archiviata su Wayback Machine della pagina di www.ZenFactor.org dedicata a 'Terra d’IF'"
 
 [CC BY-NC-ND 2.0 IT]: https://creativecommons.org/licenses/by-nc-nd/2.0/it/deed.it
 
-[IF Archive » magazines » Terra]: http://ifarchive.org/indexes/if-archiveXmagazinesXTerra.html "Visita la sezione di IF Archive dedicata a 'Terra d’IF'"
 [IF Archive]: http://ifarchive.org/ "Visita il portale IF Archive"
+[IF Archive » Magazines » Terra]: http://ifarchive.org/indexes/if-archiveXmagazinesXTerra.html "Visita la sezione di IF Archive dedicata a 'Terra d’IF'"
+[IF Archive » Magazines » Terra » Old]: https://ifarchive.org/if-archive/magazines/Terra/old/ "Link ai due numeri originali di 'Terra d’IF' pubblicati su IF Archive"
 
 [Anteprima x700]: ./anteprime-3D/Terra_dIF_3D_x700_bianco.gif "Anteprima in 3D della rivista Terra d’IF, numeri 2 e 4"
 

@@ -12,6 +12,7 @@ Traduzione italiana di _Introduction to Interactive Fiction_ di [Emily Short], a
 <!-- MarkdownTOC autolink="true" bracket="round" autoanchor="false" lowercase="only_ascii" uri_encoding="true" levels="1,2,3" -->
 
 - [Contenuti](#contenuti)
+- [Link Esterni](#link-esterni)
 - [Introduzione](#introduzione)
 
 <!-- /MarkdownTOC -->
@@ -29,6 +30,12 @@ Immagini di anteprima dell'opuscolo in 3D, da me create:
 
 - [`/anteprime-3D/`](./anteprime-3D/)
 
+# Link Esterni
+
+- [IF Archive » Starters » Italian] » [`Introduzione-alle-Avventure-Testuali.doc`][IF Archive » Intro AT DOC]
+- [IF Archive » Starters » Italian] » [`Introduzione-alle-Avventure-Testuali.pdf`][IF Archive » Intro AT PDF]
+- [ZenFactor.org » Introduzione alle Avventure Testuali]  (su Wayback Machine)
+
 
 # Introduzione
 
@@ -43,10 +50,17 @@ Il documento fu originalmente pubblicato sul mio sito ZenFactor.org nel gennaio 
 La versione originale inglese è reperibile sul [blog di Emily Short].
 
 
+<!-----------------------------------------------------------------------------
+                                REFERENCE LINKS
+  ---------------------------------------------------------------------------->
+
+[Intro AT PDF]: ./Introduzione-alle-Avventure-Testuali.pdf "'Introduzione alle Avventure Testuali' versione PDF"
+[Intro AT DOC]: ./Introduzione-alle-Avventure-Testuali_v1.1.doc "'Introduzione alle Avventure Testuali' documento Word originale"
 
 
-[Intro AT PDF]: ./Introduzione-alle-Avventure-Testuali.pdf "'Intoduzione alle Avventure Testuali' versione PDF"
-[Intro AT DOC]: ./Introduzione-alle-Avventure-Testuali_v1.1.doc "'Intoduzione alle Avventure Testuali' docuemnto Word originale"
+[IF Archive » Starters » Italian]: https://ifarchive.org/indexes/if-archiveXstartersXitalian.html "Visita la sezione 'starters/italian/' di IF Archive"
+[IF Archive » Intro AT DOC]: https://ifarchive.org/if-archive/starters/italian/Introduzione-alle-Avventure-Testuali.doc "'Introduzione alle Avventure Testuali' versione Word su IF Archive"
+[IF Archive » Intro AT PDF]: https://ifarchive.org/if-archive/starters/italian/Introduzione-alle-Avventure-Testuali.pdf "'Introduzione alle Avventure Testuali' versione PDF su IF Archive"
 
 [Anteprima x600]: ./anteprime-3D/IntroduzioneAT_3D_600x300.png "Anteprima in 3D del documento 'Introduzione alle Avventure Testuali' di Emily Short"
 
@@ -56,3 +70,4 @@ La versione originale inglese è reperibile sul [blog di Emily Short].
 
 [blog di Emily Short]: https://emshort.blog/how-to-play/ "Vai alla pagina del documento inglese 'Introduction to IF', sul blog di Emily Short"
 
+[ZenFactor.org » Introduzione alle Avventure Testuali]: <https://web.archive.org/web/20170226134455/http://avventure-testuali.zenfactor.org/risorse.htm> "Visita la copia archiviata su Wayback Machine della pagina originale di Introduzione alle Avventure Testuali su www.ZenFactor.org"
