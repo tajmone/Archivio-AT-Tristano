@@ -51,23 +51,31 @@ La versione originale inglese è reperibile sul [blog di Emily Short].
 
 
 <!-----------------------------------------------------------------------------
-                                REFERENCE LINKS
-  ---------------------------------------------------------------------------->
+                               LINK REFERENZIALI                               
+------------------------------------------------------------------------------>
 
 [Intro AT PDF]: ./Introduzione-alle-Avventure-Testuali.pdf "'Introduzione alle Avventure Testuali' versione PDF"
 [Intro AT DOC]: ./Introduzione-alle-Avventure-Testuali_v1.1.doc "'Introduzione alle Avventure Testuali' documento Word originale"
 
+<!-- Anteprime --------------------------------------------------------------->
+
+[Anteprima x600]: ./anteprime-3D/IntroduzioneAT_3D_600x300.png "Anteprima in 3D del documento 'Introduzione alle Avventure Testuali' di Emily Short"
+
+<!-- Link Esterni ------------------------------------------------------------>
+
+[Emily Short]: https://en.wikipedia.org/wiki/Emily_Short "Vedi la pagina Wikipedia dedicata a Emily Short"
+[blog di Emily Short]: https://emshort.blog/how-to-play/ "Vai alla pagina del documento inglese 'Introduction to IF', sul blog di Emily Short"
+
+[Leonardo Boselli]: http://www.youdev.it/milleuna/ "Visita il sito di Leonardo Boselli 'Mille e Una Avventura'" 
+
+<!-- IF Archive -------------------------------------------------------------->
 
 [IF Archive » Starters » Italian]: https://ifarchive.org/indexes/if-archiveXstartersXitalian.html "Visita la sezione 'starters/italian/' di IF Archive"
 [IF Archive » Intro AT DOC]: https://ifarchive.org/if-archive/starters/italian/Introduzione-alle-Avventure-Testuali.doc "'Introduzione alle Avventure Testuali' versione Word su IF Archive"
 [IF Archive » Intro AT PDF]: https://ifarchive.org/if-archive/starters/italian/Introduzione-alle-Avventure-Testuali.pdf "'Introduzione alle Avventure Testuali' versione PDF su IF Archive"
 
-[Anteprima x600]: ./anteprime-3D/IntroduzioneAT_3D_600x300.png "Anteprima in 3D del documento 'Introduzione alle Avventure Testuali' di Emily Short"
-
-[Emily Short]: https://en.wikipedia.org/wiki/Emily_Short "Vedi la pagina Wikipedia dedicata a Emily Short"
-
-[Leonardo Boselli]: http://www.youdev.it/milleuna/ "Visita il sito di Leonardo Boselli 'Mille e Una Avventura'" 
-
-[blog di Emily Short]: https://emshort.blog/how-to-play/ "Vai alla pagina del documento inglese 'Introduction to IF', sul blog di Emily Short"
+<!-- ZenFactor.org ----------------------------------------------------------->
 
 [ZenFactor.org » Introduzione alle Avventure Testuali]: <https://web.archive.org/web/20170226134455/http://avventure-testuali.zenfactor.org/risorse.htm> "Visita la copia archiviata su Wayback Machine della pagina originale di Introduzione alle Avventure Testuali su www.ZenFactor.org"
+
+<!-- EOF -->
