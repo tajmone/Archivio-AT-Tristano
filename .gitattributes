@@ -35,6 +35,7 @@ UNLICENSE  text
 ## ==========
 *.z5     binary
 *.z8     binary
+*.taf    binary
 
 ## =================
 ## SORGENTI INFORM 7

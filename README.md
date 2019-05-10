@@ -105,7 +105,10 @@ Non ho ancora avuto modo di recuperare e riordinare i vari file della libreria A
 
 ### ADRIFT 5 Italian
 
-Su richiesta di un amico, avevo tradotto in italiano la libreria di ADRIFT 5 versione Beta. Da qualche parte ho conservato i file e in futuro li renderò disponibili in questo progetto. Dubito che i file funzioneranno con la versione finale di ADRIFT 5, non senza ritocchi. Potrebbero comunque tornale utili a chi avesse voglia di aggiornali alla versione stabile di ADRIFT 5.
+- [`/ADRIFT5-ITA/`](./ADRIFT5-ITA)
+
+Su richiesta di un amico, nel 2011 avevo tradotto in italiano la libreria di ADRIFT 5 versione Beta e l'avevo pubblicata sul sito ZenFactor.org.
+Sono riuscito a recuperare i file della traduzione dal mio vecchio hard disk e li ho resi disponibili in questo progetto.
 
 ### Alan 3 Italian
 
