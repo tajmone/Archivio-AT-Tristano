@@ -18,7 +18,7 @@ Un tentativo di recuperare e preservare i miei vari contributi all'IF italiana, 
         - [ADRIFT 5 Italian](#adrift-5-italian)
         - [Alan 3 Italian](#alan-3-italian)
     - [Utilità Per lo Sviluppo IF](#utilit%C3%A0-per-lo-sviluppo-if)
-        - [Sublime Alan](#sublime-alan)
+        - [Sublime Alan IF](#sublime-alan-if)
     - [Colorazione Sintattica Linguaggi IF](#colorazione-sintattica-linguaggi-if)
     - [Applicativi](#applicativi)
         - [LGC2Z5](#lgc2z5)
@@ -129,11 +129,11 @@ Quando il progetto Alan 3 Italian sarà completato, sarà il sistema di sviluppo
 
 Alcune utilità e strumenti che ho realizzato per i programmatori di IF.
 
-### Sublime Alan
+### Sublime Alan IF
 
-- https://github.com/tajmone/sublime-alan
+- https://github.com/tajmone/sublime-alan-if
 
-Un package [Sublime Text 3] per abilitare il supporto della sintassi di Alan 3.
+Un package [Sublime Text 4] per abilitare il supporto della sintassi di Alan 3.
 
 Il progetto è stato concepito per semplificarmi il lavoro di traduzione della Libreria di Alan, e non è destinato a diventare un package completo da pubblicare su [PackageControl.io].
 
@@ -226,7 +226,7 @@ Profili GitHub di altri membri della comunità IF italiana.
 [IFDB]: http://ifdb.tads.org "Vai all’Interactive Fiction Database"
 [ZenFactor.org]: https://web.archive.org/web/20170226192256/http://avventure-testuali.zenfactor.org/index.htm "Copia archiviata del sito ZenFactor.org su Wayback Machine"
 
-[Sublime Text 3]: https://www.sublimetext.com/ "Visita il sito di Sublime Text"
+[Sublime Text 4]: https://www.sublimetext.com "Visita il sito di Sublime Text"
 [PackageControl.io]: https://packagecontrol.io/
 
 [Highlight]: http://www.andre-simon.de/doku/highlight/en/highlight.php "Visita il sito di Highlight"
